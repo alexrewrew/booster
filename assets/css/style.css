@@ -1,28 +1,55 @@
 body {
-    margin:0;
+    margin: 0;
     padding: 0;
     overflow-y: scroll;
     font-size: 16px;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Proxima Nova Rg';
 }
 
 p {}
+
 h1 {}
-h2 {}
-h3 {}
+
+h2 {
+    font-family: 'Circe';
+    font-weight: 700;
+    color: #b3b3b3;
+    font-size: 2.250em;
+    margin-bottom: 0;
+    padding-left: 20px;
+}
+
+h3 {
+    font-family: 'Circe';
+    font-weight: 700;
+    color: #b3b3b3;
+    font-size: 1.750em;
+    margin-bottom: 30px;
+}
+
 h4 {}
+
 h5 {}
+
 h6 {}
+
 input[type='text'],
 input[type='email'] {}
+
 textarea {}
+
 select {}
+
 button {}
 
-a {}
+a {
+    color: inherit;
+}
+
 a:hover,
 a:focus {}
 
+a,
 .transition {
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
@@ -30,23 +57,26 @@ a:focus {}
     transition: all 0.4s ease;
 }
 
+
 /* header */
 
 .left_header_col {
     background: #4fc8be;
-    height: 100vh;
+    min-height: 582px;
 }
 
 .right_header_col {
-    height: 100vh;
+    min-height: 582px;
+    padding: 0;
 }
 
 .header_back {
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
 }
+
 .header_front {
     position: absolute;
     top: 0;
@@ -54,6 +84,142 @@ a:focus {}
     right: 0;
 }
 
+
+/* navigation */
+
+.main_menu {
+    padding-top: 44px;
+    padding-bottom: 44px;
+}
+
+.menu_button {
+    font-size: 2em;
+}
+
+
+/* jumbotron */
+
 .jumbo_lead {
-    
+    position: absolute;
+    top: 128px;
+    left: 55px;
+    max-width: 558px;
+    background: #6de8dd;
+    padding: 60px 98px 72px 57px;
+    color: #fff;
+    z-index: 250;
+}
+
+.logo_pic {
+    margin-bottom: 36px;
+}
+
+.jumbo_lead p {
+    line-height: 1.2;
+    letter-spacing: -0.2px;
+}
+
+
+/* arrow */
+
+.arrow_container {
+    position: absolute;
+    right: 444px;
+    bottom: 0;
+}
+
+.box_separator {
+    width: 58px;
+    height: 53px;
+    background: #69d0c8;
+    border-left: 1px solid #69d0c8;
+    border-right: 1px solid #69d0c8;
+}
+
+.box_arrow {
+    width: 58px;
+    height: 60px;
+    background: #69d0c8;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    font-size: 3em;
+    text-align: center;
+    color: #fff;
+}
+
+
+/* before after slider */
+
+.before_after_slider {
+    position: relative;
+    width: 100%;
+    z-index: 200;
+}
+
+.before_after_slider > * {
+    position: absolute;
+}
+
+.black_white {
+    overflow: hidden;
+}
+
+.color,
+.black_white {
+    width: 100%;
+}
+
+.color img,
+.black_white img {
+    width: 100%;
+}
+
+
+/* about product */
+
+.about_product {
+    padding: 65px 80px 0 60px;
+}
+
+.img_wimpern {
+    margin-top: 38px;
+}
+
+.about_product p {
+    line-height: 1.38;
+    margin-bottom: 47px;
+}
+
+.about_next {
+    padding-top: 71px;
+    padding-left: 119px;
+}
+
+.vert_blue {
+    width: 4px;
+    height: 64px;
+    background-color: #81cec5;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.horz_blue {
+    width: 68px;
+    height: 4px;
+    background-color: #81cec5;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.first_line {
+    top: -49px;
+    right: 16px;
+}
+
+.second_line {
+    left: -149px;
+    right: auto;
+    top: 8px;
 }
