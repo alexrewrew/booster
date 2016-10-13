@@ -20,7 +20,12 @@ $(document).ready(function () {
         ]
     });
     /* OWL CAROUSEL */
-    $('.owl-carousel').owlCarousel({});
+    $('#customers').owlCarousel({
+        loop: true
+        , margin: 10
+        , nav: true
+        , items: 1
+    });
     /* SLICK */
     $('.your-class').slick({});
 });

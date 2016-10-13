@@ -16,7 +16,7 @@ h2 {
     color: #b3b3b3;
     font-size: 2.250em;
     margin-bottom: 0;
-    padding-left: 20px;
+    line-height: 0.83;
 }
 
 h3 {
@@ -178,7 +178,7 @@ a,
 /* about product */
 
 .about_product {
-    padding: 65px 80px 0 60px;
+    padding: 65px 80px 0 53px;
 }
 
 .img_wimpern {
@@ -190,9 +190,44 @@ a,
     margin-bottom: 47px;
 }
 
+.right_text_col {
+    padding-left: 20px;
+}
+
 .about_next {
     padding-top: 71px;
     padding-left: 119px;
+}
+
+.about_pluses {
+        padding-right: 49px;
+}
+
+.pluses_box {
+    padding-top: 60px;
+}
+
+/**/
+
+.custom_button {
+    width: 90%;
+    text-align: center;
+    background: #4fc8be;
+    color: #fff;
+    font-size: 1.500em;
+    border: none;
+    padding: 16px 0 19px 0;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.custom_button:hover {
+    
+}
+
+/**/
+#customers img {
+    width:100%;
 }
 
 .vert_blue {
@@ -219,7 +254,7 @@ a,
 }
 
 .second_line {
-    left: -149px;
+    left: -142px;
     right: auto;
     top: 8px;
 }
