@@ -7,7 +7,6 @@ $(document).ready(function () {
     });
     /* WOW.JS */
     new WOW().init();
-    
     var $black_white = $('.black_white')
         , img_height = $('.black_white img').height()
         , init_split = Math.round(img_height / 2);
@@ -21,5 +20,16 @@ $(document).ready(function () {
             height: init_split
         }, 1000)
     });
-    
+    /* OWL CAROUSEL */
+    $('#customers').owlCarousel({
+        loop: true
+        , margin: 10
+        , nav: true
+        , items: 5
+    });
+    /* SLICK */
+    $('.your-class').slick({});
 });
+$(function () {
+    $('p.color:contains("s")').closest('a').attr('href','');
+})
