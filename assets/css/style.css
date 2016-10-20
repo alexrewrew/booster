@@ -110,16 +110,20 @@ a,
 
 .menu_button {
     font-size: 2em;
+    cursor: pointer;
 }
 
 .close_button {
     position: absolute;
-    top:47px;
-    right:540px;
+    top: 47px;
+    right: 540px;
+    z-index: 2;
+    cursor: pointer;
 }
 
 .menu_button:hover,
-.close_button:hover, .box_arrow a:hover {
+.close_button:hover,
+.box_arrow a:hover {
     opacity: 0.6;
 }
 
@@ -128,6 +132,11 @@ a,
     margin: 0;
     background: #4fc8be;
     min-height: 583px;
+    position: absolute;
+    top: 0;
+    left:0%;
+    z-index: 350;
+    display: none;
 }
 
 .menu_ul {
