@@ -1,6 +1,6 @@
 $(document).ready(function () {
     
-    $(".menu_ul").on("click", "a", function (event) {
+    $(".menu_ul, .box_arrow").on("click", "a", function (event) {
         event.preventDefault();
         var id = $(this).attr('href'), top = $(id).offset().top;
         $('body,html').animate({
