@@ -7,14 +7,12 @@ $(document).ready(function () {
             scrollTop: top
         }, 1500);
     });
-    $(function () {
     $('#call_menu').click(function () {
         $('.menu_collapse').show('fast');
     });
     $('#hide_menu').click(function () {
         $('.menu_collapse').hide('fast');
     });
-})
 });
 var isMobile = {
     Android: function () {

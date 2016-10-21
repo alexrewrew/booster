@@ -1,10 +1,4 @@
 $(document).ready(function () {
-    /* ICHECK */
-    $('.icheck_input').iCheck({
-        checkboxClass: 'icheckbox_square'
-        , radioClass: 'iradio_square'
-        , increaseArea: '20%' // optional
-    });
     /* WOW.JS */
     new WOW().init();
     var $black_white = $('.black_white')
@@ -30,6 +24,3 @@ $(document).ready(function () {
     /* SLICK */
     $('.your-class').slick({});
 });
-$(function () {
-    $('p.color:contains("s")').closest('a').attr('href','');
-})
