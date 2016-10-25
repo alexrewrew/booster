@@ -165,10 +165,17 @@
 /* Medium devices (desktops, 992px and up) */
 
 @media (min-width:992px) and (max-width: 1200px) {
-    
+  .footer_front {
+    width: 50%;
+  }
 }
 
 
 /* Large devices (large desktops, 1200px and up) */
 
-@media (min-width:1200px) {}
+@media (min-width:1200px) {
+
+  .footer_front {
+    width: 50%;
+  }
+}

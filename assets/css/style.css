@@ -271,6 +271,7 @@ header>.container-fluid {
 }
 .before_after_slider > * {
   position: absolute;
+  left: calc(50% - 960px);
 }
 
 .black_white {
@@ -562,6 +563,7 @@ footer .custom_button {
     background: #4fc8be;
     color: #fff;
     padding: 39px 15px 13px 81px;
+
 }
 
 .footer_right h3 {
@@ -575,6 +577,7 @@ footer .custom_button {
 
 .footer_left {
     padding: 39px 15px 13px 54px;
+    z-index: 200;
 }
 
 .footer_left .copyright {
@@ -594,9 +597,11 @@ footer .custom_button {
     position: absolute;
     left: 0;
     right: 0;
+    z-index: 100;
 }
 .footer_front {
-    position: absolute
+    position: absolute;
+    z-index: 200;
 }
 
 .social_ul {

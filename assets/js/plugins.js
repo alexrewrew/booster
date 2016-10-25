@@ -9,11 +9,10 @@ $(document).ready(function () {
         , items: 5
         , navText: ["<img src='assets/img/left_arrow.png'>", "<img src='assets/img/right_arrow.png'>"]
         , responsive: {
-            // breakpoint from 0 up
             0: {
                 items: 2
                 , nav: false
-            }, // breakpoint from 768 up
+            },
             768: {
                 items: 3
             }
