@@ -1,16 +1,172 @@
 /* Extra small devices (phones, less than 768px) */
 
-@media screen and (max-width: 767px) {}
+@media screen and (max-width: 767px) {
+    .jumbo_lead {
+        width: auto;
+        padding: 30px;
+        position: static;
+    }
+    .menu_collapse {
+        width: 100%;
+    }
+    .menu_ul {
+        padding-left: 0;
+    }
+    .close_button {
+        right: auto;
+        left: 35px;
+    }
+    .arrow_container {
+        left: 45px;
+        top: 437px;
+    }
+    .box_separator {
+        height: 51px;
+    }
+    .before_after_slider {
+        display: none;
+    }
+    header {
+        background: #55cab8;
+    }
+    /**/
+    .img_wimpern {
+        margin: 15px 0 96px 5px;
+        width: 100%;
+    }
+    .how_it {
+        padding: 0px 80px 78px 45px;
+    }
+    .about_product {
+        padding: 65px 15px 0 15px;
+    }
+    .about_next {
+        padding-left: 0px;
+    }
+    .img_eye {
+        top: 0;
+        width: 100%;
+    }
+    .slave_ul,
+    .right_pluses .slave_ul {
+        padding-left: 56px;
+    }
+    .pluses_box.right_pluses {
+        padding-left: 15px;
+    }
+    .right_pluses .vert_gray {
+        left: 17px;
+    }
+    .img_effective {
+        position: static;
+        width: 100%;
+    }
+    .item .col-lg-12,
+    .name {
+        height: 156px;
+    }
+    .relative_text {
+        top: 10px;
+    }
+    .left_warranty {
+        padding: 25px 5px 0px 18px;
+    }
+    .img_certificate {
+        width: 100%;
+    }
+    .custom_button {
+        width: 100%;
+    }
+    .comment_row {
+        padding: 30px 15px 26px 15px;
+    }
+    .comment_row .col-lg-1,
+    .comment_row h5 {
+        text-align: center;
+    }
+    .comment_human {
+        padding-left: 15px;
+    }
+    .comment_human p {
+        padding-left: 15px;
+    }
+    .footer_left {
+        padding: 39px 15px 13px 15px;
+    }
+    .footer_right {
+        padding: 39px 15px 13px 30px;
+    }
+    .footer_back,
+    .footer_front {
+        position: static
+    }
+}
 
 
 /* Small devices (tablets, 768px and up) */
 
-@media (min-width:768px) and (max-width: 991px) {}
+@media (min-width:768px) and (max-width: 991px) {
+    .jumbo_lead {
+        width: 70%;
+        padding: 30px;
+        position: static;
+    }
+    .menu_collapse {
+        width: 65%;
+    }
+    .close_button {
+        right: auto;
+        left: 35px;
+    }
+    .arrow_container {
+        left: 45px;
+        top: 437px;
+    }
+    .box_separator {
+        height: 51px;
+    }
+    .before_after_slider {
+        display: none;
+    }
+    header {
+        background: #55cab8 url('../img/hor_girl2.png');
+        background-size: cover;
+        background-position: center;
+    }
+    .img_eye {
+        top: 5px;
+    }
+    .slave_ul,
+    .right_pluses .slave_ul {
+        padding-left: 56px;
+    }
+    .custom_button {
+        width: 100%;
+    }
+    .relative_text {
+        left: 30px;
+    }
+    .doctor_img {
+        width: 100%;
+        margin-top: 54px;
+    }
+    .left_warranty {
+        padding: 25px 5px 0px 20px;
+    }
+    .footer_front {
+        position: static;
+    }
+    .footer_front .custom_button {
+        width: 89%;
+    }
+}
 
 
 /* Medium devices (desktops, 992px and up) */
 
-@media (min-width:992px) and (max-width: 1200px) {}
+@media (min-width:992px) and (max-width: 1200px) {
+    
+}
 
 
 /* Large devices (large desktops, 1200px and up) */

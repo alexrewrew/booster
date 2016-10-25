@@ -160,7 +160,7 @@ header>.container-fluid {
     width: 50%;
     margin: 0;
     background: #4fc8be;
-    min-height: 583px;
+    min-height: 600px;
     position: absolute;
     top: 0;
     left: 0%;
@@ -174,6 +174,7 @@ header>.container-fluid {
     margin-top: 100px;
 }
 
+
 .menu_ul li {
     width: 340px;
     margin: 0;
@@ -186,6 +187,20 @@ header>.container-fluid {
 }
 
 .menu_ul li a:hover {
+    background: #6de8dd;
+}
+
+.menu_ul li a.order_button {
+    background: #fff;
+    color: #4fc8be;
+    font-size: 1.375em;
+    width: 150px;
+    padding: 10px 0px;
+    text-align: center;
+    margin-left: 45px;
+}
+.menu_ul li a.order_button:hover {
+    color:#fff;
     background: #6de8dd;
 }
 
@@ -240,6 +255,9 @@ header>.container-fluid {
     font-size: 3em;
     text-align: center;
     color: #fff;
+}
+.box_arrow a:focus {
+    outline: none;
 }
 
 
@@ -576,6 +594,9 @@ footer .custom_button {
     position: absolute;
     left: 0;
     right: 0;
+}
+.footer_front {
+    position: absolute
 }
 
 .social_ul {
