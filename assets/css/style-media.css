@@ -35,13 +35,13 @@
         width: 100%;
     }
     .how_it {
-        padding: 0px 80px 78px 45px;
+        padding: 0 80px 78px 45px;
     }
     .about_product {
         padding: 65px 15px 0 15px;
     }
     .about_next {
-        padding-left: 0px;
+        padding-left: 0;
     }
     .img_eye {
         top: 0;
@@ -69,7 +69,7 @@
         top: 10px;
     }
     .left_warranty {
-        padding: 25px 5px 0px 18px;
+        padding: 25px 5px 0 18px;
     }
     .img_certificate {
         width: 100%;
@@ -107,7 +107,7 @@
 
 @media (min-width:768px) and (max-width: 991px) {
     .jumbo_lead {
-        width: 70%;
+        min-width: 70%;
         padding: 30px;
         position: static;
     }
@@ -151,7 +151,7 @@
         margin-top: 54px;
     }
     .left_warranty {
-        padding: 25px 5px 0px 20px;
+        padding: 25px 5px 0 20px;
     }
     .footer_front {
         position: static;
