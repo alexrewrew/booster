@@ -205,7 +205,7 @@ header>.container-fluid {
 .jumbo_lead {
     position: absolute;
     top: 80px;
-    left: 55px;
+    left: 110px !important;
     width: 450px;
     background: transparent;
     padding: 0 0 0 57px;
@@ -728,11 +728,3 @@ footer .custom_button {
 
 
 /**/
-
-.footer_front, .footer_back {
-    margin-top: 179px;
-}
-
-.comment_row {
-    margin-bottom: 0;
-}

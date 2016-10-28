@@ -1,6 +1,4 @@
 $(document).ready(function () {
-    /* WOW.JS */
-    new WOW().init();
     /* OWL CAROUSEL */
     $('#customers').owlCarousel({
         loop: true
@@ -21,6 +19,4 @@ $(document).ready(function () {
             }
         }
     });
-    /* SLICK */
-    $('.your-class').slick({});
 });

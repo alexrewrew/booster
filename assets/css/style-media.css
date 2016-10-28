@@ -193,9 +193,10 @@
     .footer_front {
         width: 50%;
     }
-}
-
-
-}
-
+    .footer_front, .footer_back {
+        margin-top: 179px;
+    }
+    .comment_row {
+        margin-bottom: 0;
+    }
 }

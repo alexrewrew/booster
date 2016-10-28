@@ -1,99 +1,102 @@
-$(document).ready(function () {
-    var $black_white = $('.black_white')
-        , img_width = $('.black_white img').width()
-        , init_split = Math.round(img_width / 1.63);
+$(document).ready(function() {
+    var $black_white = $('.black_white'),
+        img_width = $('.black_white img').width(),
+        init_split = Math.round(img_width / 1.63);
     $black_white.width(init_split);
-    $('.before_after_slider').mousemove(function (e) {
+    $('.before_after_slider, .jumbo_lead, .jumbo_lead p, .jumbo_lead img').mousemove(function(e) {
         var offX = (e.offsetX || e.clientX - $black_white.offset().left);
         $black_white.width(offX);
     });
-    $('.before_after_slider').mouseleave(function (e) {
+
+    /*$('.before_after_slider').mouseleave(function(e) {
         $black_white.stop().animate({
             width: init_split
         }, 1000)
-    });
+    });*/
     //
-    $("header").on("click", "a", function (event) {
+    $("header").on("click", "a", function(event) {
         event.preventDefault();
-        var id = $(this).attr('href')
-            , top = $(id).offset().top;
+        var id = $(this).attr('href'),
+            top = $(id).offset().top;
         $('body,html').animate({
             scrollTop: top
         }, 1500);
     });
-    $('#call_menu').click(function () {
+    $('#call_menu').click(function() {
         $('.menu_collapse').show('slow');
     });
-    $('#hide_menu').click(function () {
+    $('#hide_menu').click(function() {
         $('.menu_collapse').hide('slow');
     });
     //
-    $.fn.moveIt = function () {
-        var $window = $(window);
-        var instances = [];
-        $(this).each(function () {
-            instances.push(new moveItItem($(this)));
-        });
-        window.onscroll = function () {
-            var scrollTop = $window.scrollTop();
-            instances.forEach(function (inst) {
-                inst.update(scrollTop);
+    if ($(window).width() > '1024') {
+
+        $.fn.moveIt = function() {
+            var $window = $(window);
+            var instances = [];
+            $(this).each(function() {
+                instances.push(new moveItItem($(this)));
             });
+            window.onscroll = function() {
+                var scrollTop = $window.scrollTop();
+                instances.forEach(function(inst) {
+                    inst.update(scrollTop);
+                });
+            }
         }
-    }
-    var moveItItem = function (el) {
-        this.el = $(el);
-        this.speed = parseInt(this.el.attr('data-scroll-speed'));
+        var moveItItem = function(el) {
+            this.el = $(el);
+            this.speed = parseInt(this.el.attr('data-scroll-speed'));
+        };
+        moveItItem.prototype.update = function(scrollTop) {
+            var pos = scrollTop / this.speed;
+            this.el.css('transform', 'translateY(' + -pos + 'px)');
+        };
     };
-    moveItItem.prototype.update = function (scrollTop) {
-        var pos = scrollTop / this.speed;
-        this.el.css('transform', 'translateY(' + -pos + 'px)');
-    };
-    $(function () {
+    $(function() {
         $('[data-scroll-speed]').moveIt();
     });
 
-    $('.minus').click(function () {
-            var $input = $(this).parent().find('input');
-            var count = parseInt($input.val()) - 1;
-            count = count < 1 ? 1 : count;
-            $input.val(count);
-            $input.change();
-            return false;
-        });
-        $('.plus').click(function () {
-            var $input = $(this).parent().find('input');
-            $input.val(parseInt($input.val()) + 1);
-            $input.change();
-            return false;
-        });
+    $('.minus').click(function() {
+        var $input = $(this).parent().find('input');
+        var count = parseInt($input.val()) - 1;
+        count = count < 1 ? 1 : count;
+        $input.val(count);
+        $input.change();
+        return false;
+    });
+    $('.plus').click(function() {
+        var $input = $(this).parent().find('input');
+        $input.val(parseInt($input.val()) + 1);
+        $input.change();
+        return false;
+    });
 
 
 });
 var isMobile = {
-    Android: function () {
+    Android: function() {
         return navigator.userAgent.match(/Android/i);
-    }
-    , BlackBerry: function () {
+    },
+    BlackBerry: function() {
         return navigator.userAgent.match(/BlackBerry/i);
-    }
-    , iOS: function () {
+    },
+    iOS: function() {
         return navigator.userAgent.match(/iPhone|iPad|iPod/i);
-    }
-    , Opera: function () {
+    },
+    Opera: function() {
         return navigator.userAgent.match(/Opera Mini/i);
-    }
-    , Windows: function () {
+    },
+    Windows: function() {
         return navigator.userAgent.match(/IEMobile/i);
-    }
-    , any: function () {
+    },
+    any: function() {
         return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows());
     }
 };
 if (!isMobile.any()) {
     $(".").show();
-}
-else {
+} else {
     $(".").show();
 }
 /* before after */
