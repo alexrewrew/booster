@@ -13,7 +13,7 @@ $(document).ready(function () {
         }, 1000)
     });
     //
-    $(".menu_ul, .box_arrow").on("click", "a", function (event) {
+    $("header").on("click", "a", function (event) {
         event.preventDefault();
         var id = $(this).attr('href')
             , top = $(id).offset().top;
