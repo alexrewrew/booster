@@ -6,6 +6,18 @@
         padding: 30px;
         position: static;
     }
+    .main_menu {
+        padding-bottom: 0px;
+    }
+    .logo_pic {
+        width: 60%;
+    }
+    .jumbo_lead p {
+        font-size: 1.350em;
+    }
+    header .custom_button {
+        padding: 11px 50px;
+    }
     .menu_collapse {
         width: 100%;
     }
@@ -46,9 +58,9 @@
     .img_eye {
         top: 0;
         width: 100%;
+        position: static;
     }
-    .slave_ul,
-    .right_pluses .slave_ul {
+    .slave_ul, .right_pluses .slave_ul {
         padding-left: 56px;
     }
     .pluses_box.right_pluses {
@@ -61,18 +73,22 @@
         position: static;
         width: 100%;
     }
-    .item .col-lg-12,
-    .name {
-        height: 156px;
+    .item .col-lg-12, .name {
+        height: 146px;
     }
     .relative_text {
         top: 10px;
+        padding: 15px;
     }
     .left_warranty {
         padding: 25px 5px 0 18px;
     }
     .img_certificate {
         width: 100%;
+        margin-left: 15px;
+    }
+    .right_warranty .gray_box {
+        top: 39px;
     }
     .custom_button {
         width: 100%;
@@ -80,8 +96,7 @@
     .comment_row {
         padding: 30px 15px 26px 15px;
     }
-    .comment_row .col-lg-1,
-    .comment_row h5 {
+    .comment_row .col-lg-1, .comment_row h5 {
         text-align: center;
     }
     .comment_human {
@@ -96,9 +111,11 @@
     .footer_right {
         padding: 39px 15px 13px 30px;
     }
-    .footer_back,
-    .footer_front {
+    .footer_back, .footer_front {
         position: static
+    }
+    input {
+        min-width: 100%;
     }
 }
 
@@ -136,8 +153,7 @@
     .img_eye {
         top: 5px;
     }
-    .slave_ul,
-    .right_pluses .slave_ul {
+    .slave_ul, .right_pluses .slave_ul {
         padding-left: 56px;
     }
     .custom_button {
@@ -165,17 +181,21 @@
 /* Medium devices (desktops, 992px and up) */
 
 @media (min-width:992px) and (max-width: 1200px) {
-  .footer_front {
-    width: 50%;
-  }
+    .footer_front {
+        width: 50%;
+    }
 }
 
 
 /* Large devices (large desktops, 1200px and up) */
 
 @media (min-width:1200px) {
+    .footer_front {
+        width: 50%;
+    }
+}
 
-  .footer_front {
-    width: 50%;
-  }
+
+}
+
 }

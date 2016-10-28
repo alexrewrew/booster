@@ -82,7 +82,7 @@ a:hover, a:focus {
     color: #fff;
 }
 
-a, .custom_button, .owl-prev, .owl-next, .transition {
+a, .custom_button, .owl-prev, .owl-next, .plus, .minus, .transition {
     -webkit-transition: all 0.4s ease;
     -moz-transition: all 0.4s ease;
     -o-transition: all 0.4s ease;
@@ -204,24 +204,27 @@ header>.container-fluid {
 
 .jumbo_lead {
     position: absolute;
-    top: 128px;
+    top: 80px;
     left: 55px;
-    width: 558px;
-    background: #6de8dd;
-    padding: 51px 85px 60px 57px;
+    width: 450px;
+    background: transparent;
+    padding: 0 0 0 57px;
     color: #fff;
     z-index: 250;
     min-height: 310px;
 }
 
 .logo_pic {
-    margin-bottom: 37px;
+    margin-bottom: 32px;
 }
 
 .jumbo_lead p {
-    font-size: 1.375em;
+    font-size: 1.750em;
     color: #fff;
-    line-height: 1.2;
+    line-height: 1.25;
+    font-weight: 500;
+    font-family: 'Proxima Nova Rg';
+    margin-bottom: 44px;
 }
 
 
@@ -230,12 +233,12 @@ header>.container-fluid {
 .arrow_container {
     position: absolute;
     left: 113px;
-    top: 433px;
+    top: 455px;
 }
 
 .box_separator {
     width: 58px;
-    height: 53px;
+    height: 42px;
     background: #69d0c8;
     border-left: 1px solid #69d0c8;
     border-right: 1px solid #69d0c8;
@@ -250,6 +253,11 @@ header>.container-fluid {
     font-size: 3em;
     text-align: center;
     color: #fff;
+}
+
+.box_arrow img {
+    vertical-align: baseline;
+    ;
 }
 
 .box_arrow a:focus {
@@ -410,6 +418,13 @@ header>.container-fluid {
     color: #4fc8be;
 }
 
+header .custom_button {
+    font-weight: 500;
+    font-size: 1.750em;
+    font-family: 'Proxima Nova Rg';
+    padding: 11px 84px;
+}
+
 
 /**/
 
@@ -551,12 +566,12 @@ p.certificate_text {
 
 footer .custom_button {
     margin-top: 30px;
-    margin-bottom: 29px;
+    margin-bottom: 23px;
     padding: 10px;
 }
 
 .footer_right {
-    background: #4fc8be;
+    background: #a1a1a1;
     color: #fff;
     padding: 39px 15px 13px 81px;
 }
@@ -571,7 +586,7 @@ footer .custom_button {
 }
 
 .footer_left {
-    padding: 39px 15px 13px 54px;
+    padding: 39px 15px 13px 94px;
     z-index: 200;
 }
 
@@ -580,7 +595,7 @@ footer .custom_button {
 }
 
 .footer_left h3 {
-    font-size: 2em;
+    font-size: 1.950em;
     line-height: 0.9;
     letter-spacing: 0.6px;
     color: #727272;
@@ -620,6 +635,36 @@ footer .custom_button {
     font-size: 0.750em;
     letter-spacing: -0.1px;
     color: #fff;
+}
+
+
+/**/
+
+.number {
+    display: inline;
+    position: relative;
+}
+
+.plus, .minus {
+    position: absolute;
+    color: #fff;
+    background: #c9d1d2;
+    top: -3px;
+    cursor: pointer;
+}
+
+.plus:hover, .minus:hover {
+    background: #81cec5;
+}
+
+.plus {
+    padding: 0 8px;
+    right: 50px;
+}
+
+.minus {
+    padding: 0 9px;
+    right: 17px;
 }
 
 .vert_blue {
@@ -672,7 +717,7 @@ footer .custom_button {
 
 .fourth_line {
     top: 22px;
-    left: 55px;
+    left: 95px;
     right: auto;
 }
 
