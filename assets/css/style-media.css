@@ -2,12 +2,12 @@
 
 @media screen and (max-width: 767px) {
     .jumbo_lead {
-        width: auto;
-        padding: 30px;
+        padding: 30px 30px 30px 45px;
         position: static;
+        width: auto;
     }
     .main_menu {
-        padding-bottom: 0px;
+        padding-bottom: 0;
     }
     .logo_pic {
         width: 60%;
@@ -25,8 +25,8 @@
         padding-left: 0;
     }
     .close_button {
-        right: auto;
         left: 35px;
+        right: auto;
     }
     .arrow_container {
         left: 45px;
@@ -39,7 +39,7 @@
         display: none;
     }
     header {
-        background: #55cab8;
+        background: #b9bbc7;
     }
     /**/
     .img_wimpern {
@@ -56,11 +56,15 @@
         padding-left: 0;
     }
     .img_eye {
+        position: static;
         top: 0;
         width: 100%;
-        position: static;
     }
-    .slave_ul, .right_pluses .slave_ul {
+    .gray_mobile {
+        background: #f3f3f3;
+    }
+    .slave_ul,
+    .right_pluses .slave_ul {
         padding-left: 56px;
     }
     .pluses_box.right_pluses {
@@ -73,22 +77,26 @@
         position: static;
         width: 100%;
     }
-    .item .col-lg-12, .name {
+    .item .col-lg-12,
+    .name {
         height: 146px;
     }
     .relative_text {
-        top: 10px;
         padding: 15px;
+        top: 10px;
     }
     .left_warranty {
         padding: 25px 5px 0 18px;
     }
     .img_certificate {
-        width: 100%;
         margin-left: 15px;
+        width: 100%;
     }
     .right_warranty .gray_box {
         top: 39px;
+    }
+    .gray_box {
+        display: none;
     }
     .custom_button {
         width: 100%;
@@ -96,7 +104,8 @@
     .comment_row {
         padding: 30px 15px 26px 15px;
     }
-    .comment_row .col-lg-1, .comment_row h5 {
+    .comment_row .col-lg-1,
+    .comment_row h5 {
         text-align: center;
     }
     .comment_human {
@@ -111,7 +120,8 @@
     .footer_right {
         padding: 39px 15px 13px 30px;
     }
-    .footer_back, .footer_front {
+    .footer_back,
+    .footer_front {
         position: static
     }
     input {
@@ -123,17 +133,20 @@
 /* Small devices (tablets, 768px and up) */
 
 @media (min-width:768px) and (max-width: 991px) {
+    .main_menu {
+        padding-bottom: 15px;
+    }
     .jumbo_lead {
         min-width: 70%;
-        padding: 30px;
+        padding: 0 30px 30px 45px;
         position: static;
     }
     .menu_collapse {
         width: 65%;
     }
     .close_button {
-        right: auto;
         left: 35px;
+        right: auto;
     }
     .arrow_container {
         left: 45px;
@@ -146,14 +159,15 @@
         display: none;
     }
     header {
-        background: #55cab8 url('../img/hor_girl2.png');
-        background-size: cover;
+        background: #b9bbc7 url('../img/var2/Main_Photo_28_10_V2.jpg');
         background-position: center;
+        background-size: cover;
     }
     .img_eye {
-        top: 5px;
+        position: static;
     }
-    .slave_ul, .right_pluses .slave_ul {
+    .slave_ul,
+    .right_pluses .slave_ul {
         padding-left: 56px;
     }
     .custom_button {
@@ -163,8 +177,8 @@
         left: 30px;
     }
     .doctor_img {
-        width: 100%;
         margin-top: 54px;
+        width: 100%;
     }
     .left_warranty {
         padding: 25px 5px 0 20px;
@@ -175,14 +189,34 @@
     .footer_front .custom_button {
         width: 89%;
     }
+    .footer_left {
+        padding: 39px 15px 13px 50px;
+    }
 }
 
 
 /* Medium devices (desktops, 992px and up) */
 
 @media (min-width:992px) and (max-width: 1200px) {
+    .jumbo_lead {
+        padding: 0px 0 0 30px;
+        top: 95px;
+    }
+    .close_button {
+        right: 455px;
+    }
     .footer_front {
         width: 50%;
+    }
+    input {
+        min-width: 80%;
+    }
+    .plus,
+    .minus {
+        top: 50px;
+    }
+    .social_ul {
+        margin-bottom: 129px;
     }
 }
 
@@ -193,7 +227,8 @@
     .footer_front {
         width: 50%;
     }
-    .footer_front, .footer_back {
+    .footer_front,
+    .footer_back {
         margin-top: 179px;
     }
     .comment_row {

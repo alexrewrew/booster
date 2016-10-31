@@ -77,15 +77,20 @@ a {
     color: #fff;
 }
 
-a:hover, a:focus {
+a:hover,
+a:focus {
     text-decoration: none;
     color: #fff;
 }
 
-a, .custom_button, .owl-prev, .owl-next, .plus, .minus, .transition {
+a,
+.custom_button,
+.owl-prev,
+.owl-next,
+.plus,
+.minus,
+.transition {
     -webkit-transition: all 0.4s ease;
-    -moz-transition: all 0.4s ease;
-    -o-transition: all 0.4s ease;
     transition: all 0.4s ease;
 }
 
@@ -147,7 +152,9 @@ header>.container-fluid {
     cursor: pointer;
 }
 
-.menu_button:hover, .close_button:hover, .box_arrow a:hover {
+.menu_button:hover,
+.close_button:hover,
+.box_arrow a:hover {
     opacity: 0.6;
 }
 
@@ -453,12 +460,14 @@ header .custom_button {
     right: 0;
 }
 
-.owl-prev img, .owl-next img {
+.owl-prev img,
+.owl-next img {
     width: 22px;
     height: 63px;
 }
 
-.owl-prev:hover, .owl-next:hover {
+.owl-prev:hover,
+.owl-next:hover {
     opacity: .6;
 }
 
@@ -562,7 +571,8 @@ p.certificate_text {
     color: #b3b3b3;
 }
 
-.comment_row h3 a:hover, .comment_row h3 a:focus {
+.comment_row h3 a:hover,
+.comment_row h3 a:focus {
     color: #81cec5;
 }
 
@@ -650,7 +660,8 @@ footer .custom_button {
     position: relative;
 }
 
-.plus, .minus {
+.plus,
+.minus {
     position: absolute;
     color: #fff;
     background: #c9d1d2;
@@ -658,7 +669,8 @@ footer .custom_button {
     cursor: pointer;
 }
 
-.plus:hover, .minus:hover {
+.plus:hover,
+.minus:hover {
     background: #81cec5;
 }
 
