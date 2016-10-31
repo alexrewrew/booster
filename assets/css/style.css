@@ -1,32 +1,28 @@
 body {
+    font-family: 'Proxima Nova Rg', sans-serif;
+    font-size: 16px;
+    overflow-x: hidden;
+    overflow-y: scroll;
     margin: 0;
     padding: 0;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    font-size: 16px;
-    font-family: 'Proxima Nova Rg';
 }
 
-p {}
-
-h1 {}
-
 h2 {
-    font-family: 'Circe';
-    font-weight: 700;
-    color: #b3b3b3;
+    font-family: 'Circe', sans-serif;
     font-size: 2.250em;
+    font-weight: 700;
     line-height: 1.06;
     margin-bottom: 22px;
+    color: #b3b3b3;
 }
 
 h3 {
     font-family: 'Circe';
-    font-weight: 700;
-    color: #b3b3b3;
     font-size: 1.750em;
+    font-weight: 700;
     margin-bottom: 30px;
-    letter-spacing: -0.3px;
+    letter-spacing: -.3px;
+    color: #b3b3b3;
 }
 
 h4 {
@@ -34,9 +30,11 @@ h4 {
     font-size: 1.875em;
     font-weight: bold;
     line-height: 1.07;
-    color: #81cec5;
+
     margin-top: 35px;
     margin-bottom: 29px;
+
+    color: #81cec5;
 }
 
 h5 {
@@ -44,42 +42,39 @@ h5 {
     font-size: 1.125em;
     font-weight: 500;
     line-height: 1.2;
-    color: #4fc8be;
+
     margin-top: 0;
+
+    color: #4fc8be;
 }
 
-h6 {}
-
 input {
+    font-size: 1.250em;
+
     min-width: 43%;
+    margin-right: 13px;
+    margin-bottom: 6px;
+    padding: 5px 5px 11px 1px;
+
     border: none;
     border-bottom: 1px solid #000;
-    font-size: 1.250em;
-    margin-right: 13px;
-    padding: 5px 5px 11px 1px;
-    margin-bottom: 6px;
 }
 
 input:focus {
     outline: none;
 }
 
-textarea {}
-
-select {}
-
-button {}
-
 a {
-    line-height: 1.2;
-    font-weight: 400;
     font-family: 'Circe';
+    font-weight: 400;
+    line-height: 1.2;
     color: #fff;
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
+
     color: #fff;
 }
 
@@ -90,47 +85,48 @@ a,
 .plus,
 .minus,
 .transition {
-    -webkit-transition: all 0.4s ease;
-    transition: all 0.4s ease;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
 }
-
 
 /* header */
 
 header {
+    position: relative;
+
     min-height: 600px;
-    position: relative
 }
 
-header>.container-fluid {
+header > .container-fluid {
     padding: 0;
 }
 
 .left_header_col {
-    background: #4fc8be;
     min-height: 583px;
+
+    background: #4fc8be;
 }
 
 .right_header_col {
+    overflow: hidden;
+
     min-height: 583px;
     padding: 0;
-    overflow: hidden;
 }
 
 .header_back {
     position: relative;
     top: 0;
-    left: 0;
     right: 0;
+    left: 0;
 }
 
 .header_front {
     position: absolute;
     top: 0;
-    left: 0;
     right: 0;
+    left: 0;
 }
-
 
 /* navigation */
 
@@ -141,39 +137,46 @@ header>.container-fluid {
 
 .menu_button {
     font-size: 2em;
+
     cursor: pointer;
 }
 
 .close_button {
     position: absolute;
+    z-index: 2;
     top: 47px;
     right: 540px;
-    z-index: 2;
+
     cursor: pointer;
 }
 
 .menu_button:hover,
 .close_button:hover,
 .box_arrow a:hover {
-    opacity: 0.6;
+    opacity: .6;
 }
 
 .menu_collapse {
-    width: 50%;
-    margin: 0;
-    background: #4fc8be;
-    min-height: 600px;
     position: absolute;
+    z-index: 350;
     top: 0;
     left: 0;
-    z-index: 350;
+
     display: none;
+
+    width: 50%;
+    min-height: 600px;
+    margin: 0;
+
+    background: #4fc8be;
 }
 
 .menu_ul {
-    color: #fff;
-    list-style: none;
     margin-top: 100px;
+
+    list-style: none;
+
+    color: #fff;
 }
 
 .menu_ul li {
@@ -182,8 +185,9 @@ header>.container-fluid {
 }
 
 .menu_ul li a {
-    width: 100%;
     display: inline-block;
+
+    width: 100%;
     padding: 10px 0 10px 75px;
 }
 
@@ -192,13 +196,16 @@ header>.container-fluid {
 }
 
 .menu_ul li a.order_button {
-    background: #fff;
-    color: #4fc8be;
     font-size: 1.375em;
+
     width: 150px;
-    padding: 10px 0;
-    text-align: center;
     margin-left: 45px;
+    padding: 10px 0;
+
+    text-align: center;
+
+    color: #4fc8be;
+    background: #fff;
 }
 
 .menu_ul li a.order_button:hover {
@@ -206,19 +213,20 @@ header>.container-fluid {
     background: #6de8dd;
 }
 
-
 /* jumbotron */
 
 .jumbo_lead {
     position: absolute;
+    z-index: 250;
     top: 80px;
     left: 110px !important;
+
     width: 450px;
-    background: transparent;
-    padding: 0 0 0 57px;
-    color: #fff;
-    z-index: 250;
     min-height: 310px;
+    padding: 0 0 0 57px;
+
+    color: #fff;
+    background: transparent;
 }
 
 .logo_pic {
@@ -226,55 +234,54 @@ header>.container-fluid {
 }
 
 .jumbo_lead p {
+    font-family: 'Proxima Nova Rg', sans-serif;
     font-size: 1.750em;
-    color: #fff;
-    line-height: 1.25;
     font-weight: 500;
-    font-family: 'Proxima Nova Rg';
-    margin-bottom: 44px;
-}
+    line-height: 1.25;
 
+    margin-bottom: 44px;
+
+    color: #fff;
+}
 
 /* arrow */
 
 .arrow_container {
     position: absolute;
-    left: 113px;
     top: 455px;
+    left: 113px;
 }
 
 .box_separator {
     width: 58px;
     height: 42px;
-    background: rgba(255, 255, 255, 0.1);
-    ;
-    border-left: 1px solid rgba(255, 255, 255, 0.3);
-    ;
-    border-right: 1px solid rgba(255, 255, 255, 0.3);
-    ;
+
+    border-right: 1px solid rgba(255, 255, 255, .3);
+    border-left: 1px solid rgba(255, 255, 255, .3);
+    background: rgba(255, 255, 255, .1);;;;
 }
 
 .box_arrow {
+    font-size: 3em;
+
     width: 58px;
     height: 60px;
-    background: rgba(255, 255, 255, 0.1);
-    ;
-    border-left: 1px solid #fff;
-    border-right: 1px solid #fff;
-    font-size: 3em;
+
     text-align: center;
+
     color: #fff;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+    background: rgba(255, 255, 255, .1);;
 }
 
 .box_arrow img {
-    vertical-align: baseline;
-    ;
+    vertical-align: baseline;;
 }
 
 .box_arrow a:focus {
     outline: none;
 }
-
 
 /* before after slider */
 
@@ -285,7 +292,7 @@ header>.container-fluid {
   height: 400px;*/
 }
 
-.before_after_slider>* {
+.before_after_slider > * {
     position: absolute;
     left: calc(50% - 960px);
 }
@@ -293,7 +300,6 @@ header>.container-fluid {
 .black_white {
     overflow: hidden;
 }
-
 
 /*
 .color,
@@ -305,7 +311,6 @@ header>.container-fluid {
 .black_white img {
     width: 100%;
 }*/
-
 
 /* about product */
 
@@ -319,13 +324,14 @@ header>.container-fluid {
 
 .gray_box {
     position: absolute;
+    z-index: -1;
     top: 34px;
     left: 15px;
-    z-index: -1;
 }
 
 .main_ul {
-    padding-left: 0px;
+    padding-left: 0;
+
     list-style: none;
 }
 
@@ -355,7 +361,7 @@ header>.container-fluid {
 }
 
 .how_it {
-    padding: 0px 80px 78px 53px;
+    padding: 0 80px 78px 53px;
 }
 
 .how_it .right_text_col {
@@ -370,8 +376,8 @@ header>.container-fluid {
 .img_eye {
     position: absolute;
     z-index: 0;
-    right: -10px;
     top: 55px;
+    right: -10px;
 }
 
 .about_pluses {
@@ -380,8 +386,9 @@ header>.container-fluid {
 }
 
 .pluses_box {
-    padding-top: 67px;
     position: relative;
+
+    padding-top: 67px;
 }
 
 .pluses_box.right_pluses {
@@ -389,15 +396,16 @@ header>.container-fluid {
 }
 
 .effective {
+    position: relative;
+
     padding-top: 36px;
     padding-left: 50px;
-    position: relative;
 }
 
 .img_effective {
     position: absolute;
     top: 82px;
-    left: 0px;
+    left: 0;
 }
 
 .image_box {
@@ -408,34 +416,36 @@ header>.container-fluid {
     padding-bottom: 28px;
 }
 
-
 /**/
 
 .custom_button {
-    width: 89%;
-    text-align: center;
-    background: #4fc8be;
-    color: #fff;
     font-size: 1.500em;
-    border: none;
-    padding: 16px 0 19px 0;
     font-weight: 400;
     line-height: 1.25;
+
+    width: 89%;
     margin-top: 4px;
+    padding: 16px 0 19px 0;
+
+    text-align: center;
+
+    color: #fff;
+    border: none;
+    background: #4fc8be;
 }
 
 .custom_button:hover {
-    background: #f3f3f3;
     color: #4fc8be;
+    background: #f3f3f3;
 }
 
 header .custom_button {
-    font-weight: 500;
+    font-family: 'Proxima Nova Rg', sans-serif;
     font-size: 1.750em;
-    font-family: 'Proxima Nova Rg';
+    font-weight: 500;
+
     padding: 11px 84px;
 }
-
 
 /**/
 
@@ -446,8 +456,8 @@ header .custom_button {
 .owl-nav {
     position: absolute;
     top: 42.3%;
-    left: -35px;
     right: -35px;
+    left: -35px;
 }
 
 .owl-prev {
@@ -471,26 +481,29 @@ header .custom_button {
     opacity: .6;
 }
 
-#customers item img {
+#customers .item img {
     min-height: 207px;
 }
 
 .name {
-    background: #f3f3f3;
-    height: 207px;
-    font-weight: 700;
     font-size: 1.125em;
-    padding-left: 26px;
+    font-weight: 700;
+
     display: table-cell;
+
+    height: 207px;
+    padding-left: 26px;
+
     vertical-align: middle;
-    letter-spacing: -0.2px;
+    letter-spacing: -.2px;
+
     color: #828282;
+    background: #f3f3f3;
 }
 
 .item .col-lg-12 {
     height: 207px;
 }
-
 
 /**/
 
@@ -510,7 +523,6 @@ header .custom_button {
     top: -75px;
 }
 
-
 /**/
 
 .warranty {
@@ -518,8 +530,9 @@ header .custom_button {
 }
 
 .left_warranty {
-    padding: 25px 5px 0px 52px;
     z-index: 250;
+
+    padding: 25px 5px 0 52px;
 }
 
 .right_warranty .gray_box {
@@ -535,8 +548,10 @@ p.certificate_text {
     font-size: 1.125em;
     font-weight: 500;
     line-height: 1.2;
-    color: #4fc8be;
+
     padding-left: 29px;
+
+    color: #4fc8be;
 }
 
 .img_certificate {
@@ -545,14 +560,14 @@ p.certificate_text {
     left: -69px;
 }
 
-
 /**/
 
 .comment_row {
-    background: #f3f3f3;
     margin-top: 33px;
-    padding: 64px 0 26px 42px;
     margin-bottom: 148px;
+    padding: 64px 0 26px 42px;
+
+    background: #f3f3f3;
 }
 
 .comment_human {
@@ -576,7 +591,6 @@ p.certificate_text {
     color: #81cec5;
 }
 
-
 /**/
 
 footer .custom_button {
@@ -586,23 +600,28 @@ footer .custom_button {
 }
 
 .footer_right {
-    background: #a1a1a1;
-    color: #fff;
     padding: 39px 15px 13px 81px;
+
+    color: #fff;
+    background: #a1a1a1;
 }
 
 .footer_right h3 {
     font-size: 2em;
-    line-height: 0.9;
-    letter-spacing: 0.6px;
-    color: #fff;
     font-weight: 400;
+    line-height: .9;
+
     margin-bottom: 18px;
+
+    letter-spacing: .6px;
+
+    color: #fff;
 }
 
 .footer_left {
-    padding: 39px 15px 13px 94px;
     z-index: 200;
+
+    padding: 39px 15px 13px 94px;
 }
 
 .footer_left .copyright {
@@ -611,18 +630,19 @@ footer .custom_button {
 
 .footer_left h3 {
     font-size: 1.950em;
-    line-height: 0.9;
-    letter-spacing: 0.6px;
-    color: #727272;
     font-weight: 400;
+    line-height: .9;
     margin-bottom: 8px;
+    letter-spacing: 0.6px;
+
+    color: #727272;
 }
 
 .footer_back {
     position: absolute;
-    left: 0;
-    right: 0;
     z-index: 100;
+    right: 0;
+    left: 0;
 }
 
 .footer_front {
@@ -631,14 +651,17 @@ footer .custom_button {
 }
 
 .social_ul {
-    list-style: none;
-    padding-left: 0;
     margin: 35px 0;
+    padding-left: 0;
+
+    list-style: none;
 }
 
 .social_ul li {
     font-size: 1.9em;
+
     display: inline-block;
+
     margin-right: 37px;
 }
 
@@ -647,26 +670,30 @@ footer .custom_button {
 }
 
 .copyright {
-    font-size: 0.750em;
-    letter-spacing: -0.1px;
+    font-size: .750em;
+
+    letter-spacing: -.1px;
+
     color: #fff;
 }
-
 
 /**/
 
 .number {
-    display: inline;
     position: relative;
+
+    display: inline;
 }
 
 .plus,
 .minus {
     position: absolute;
+    top: -3px;
+
+    cursor: pointer;
+
     color: #fff;
     background: #c9d1d2;
-    top: -3px;
-    cursor: pointer;
 }
 
 .plus:hover,
@@ -675,40 +702,48 @@ footer .custom_button {
 }
 
 .plus {
-    padding: 0 8px;
     right: 50px;
+
+    padding: 0 8px;
 }
 
 .minus {
-    padding: 0 9px;
     right: 17px;
+
+    padding: 0 9px;
 }
 
 .vert_blue {
-    width: 4px;
-    height: 64px;
-    background-color: #81cec5;
     position: absolute;
     top: 0;
     right: 0;
+
+    width: 4px;
+    height: 64px;
+
+    background-color: #81cec5;
 }
 
 .horz_blue {
-    width: 68px;
-    height: 4px;
-    background-color: #81cec5;
     position: absolute;
     top: 0;
     right: 0;
+
+    width: 68px;
+    height: 4px;
+
+    background-color: #81cec5;
 }
 
 .vert_gray {
-    width: 2px;
-    height: 40px;
-    background-color: #eaeaea;
     position: absolute;
     top: 362px;
     left: 17px;
+
+    width: 2px;
+    height: 40px;
+
+    background-color: #eaeaea;
 }
 
 .right_pluses .vert_gray {
@@ -721,22 +756,21 @@ footer .custom_button {
 }
 
 .second_line {
-    left: -58px;
-    right: auto;
     top: 8px;
+    right: auto;
+    left: -58px;
 }
 
 .third_line {
     top: 207px;
-    left: 17px;
     right: auto;
+    left: 17px;
 }
 
 .fourth_line {
     top: 22px;
-    left: 95px;
     right: auto;
+    left: 95px;
 }
-
 
 /**/
