@@ -12,7 +12,7 @@ $(document).ready(function () {
                 , nav: false
             },
             768: {
-                items: 3
+                items: 4
             }
             , 1024: {
                 items: 5

@@ -2,7 +2,80 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80577c7-52e8-43f6-9f3b-29308ef0d608" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style-media.css" afterPath="$PROJECT_DIR$/assets/css/style-media.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/Proxima_Nova/stylesheet.css" afterPath="$PROJECT_DIR$/assets/fonts/Proxima_Nova/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fonts.css" afterPath="$PROJECT_DIR$/assets/fonts/fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins.js" afterPath="$PROJECT_DIR$/assets/js/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/animation/animate/animate.css" afterPath="$PROJECT_DIR$/assets/plugins/animation/animate/animate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" afterPath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/core.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/core.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/list.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/list.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/path.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/path.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/helper.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/helper.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="booster.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +100,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-69">
-              <caret line="200" column="15" selection-start-line="200" selection-start-column="15" selection-end-line="200" selection-end-column="15" />
+            <state relative-caret-position="203">
+              <caret line="454" column="43" selection-start-line="454" selection-start-column="37" selection-end-line="454" selection-end-column="43" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -36,21 +109,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="-1017">
+              <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style-media.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style-media.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3552">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugins.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -64,9 +157,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/assets/css/style-media.css" />
-        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/js/plugins.js" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/style-media.css" />
       </list>
     </option>
   </component>
@@ -107,6 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -154,21 +249,111 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobtab" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../gosha" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -185,17 +370,20 @@
       <updated>1477253616185</updated>
       <workItem from="1477948087444" duration="107000" />
       <workItem from="1477952459365" duration="1055000" />
+      <workItem from="1478000374357" duration="3925000" />
+      <workItem from="1478004355614" duration="3147000" />
+      <workItem from="1478016022819" duration="2117000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1162000" />
+    <option name="totallyTimeSpent" value="10351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16796875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23828125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -225,35 +413,91 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="9312">
+          <caret line="388" column="56" selection-start-line="388" selection-start-column="56" selection-end-line="388" selection-end-column="56" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="1344">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3552">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
+        <state relative-caret-position="11448">
+          <caret line="477" column="30" selection-start-line="477" selection-start-column="30" selection-end-line="477" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15480">
+          <caret line="645" column="27" selection-start-line="645" selection-start-column="27" selection-end-line="645" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4800">
           <caret line="200" column="15" selection-start-line="200" selection-start-column="15" selection-end-line="200" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -263,8 +507,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="454" column="43" selection-start-line="454" selection-start-column="37" selection-end-line="454" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1017">
+          <caret line="144" column="0" selection-start-line="144" selection-start-column="0" selection-end-line="144" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
           <folding />
         </state>
       </provider>
