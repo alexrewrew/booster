@@ -1,82 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b80577c7-52e8-43f6-9f3b-29308ef0d608" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style-media.css" afterPath="$PROJECT_DIR$/assets/css/style-media.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/Proxima_Nova/stylesheet.css" afterPath="$PROJECT_DIR$/assets/fonts/Proxima_Nova/stylesheet.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fonts.css" afterPath="$PROJECT_DIR$/assets/fonts/fonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/plugins.js" afterPath="$PROJECT_DIR$/assets/js/plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/animation/animate/animate.css" afterPath="$PROJECT_DIR$/assets/plugins/animation/animate/animate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" afterPath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/plugins/framework/bootstrap/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/core.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/core.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/list.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/list.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/path.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/path.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="$PROJECT_DIR$/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/helper.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/helper.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" afterPath="$PROJECT_DIR$/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="b80577c7-52e8-43f6-9f3b-29308ef0d608" name="Default" comment="" />
     <ignored path="booster.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -122,8 +47,8 @@
       <file leaf-file-name="style-media.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+            <state relative-caret-position="231">
+              <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -316,7 +241,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gosha" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../slimall" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
@@ -372,12 +297,12 @@
       <workItem from="1477952459365" duration="1055000" />
       <workItem from="1478000374357" duration="3925000" />
       <workItem from="1478004355614" duration="3147000" />
-      <workItem from="1478016022819" duration="2117000" />
+      <workItem from="1478016022819" duration="2398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10351000" />
+    <option name="totallyTimeSpent" value="10632000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -577,8 +502,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="160" column="8" selection-start-line="160" selection-start-column="8" selection-end-line="160" selection-end-column="8" />
+        <state relative-caret-position="231">
+          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
           <folding />
         </state>
       </provider>
