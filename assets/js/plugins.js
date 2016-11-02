@@ -8,14 +8,20 @@ $(document).ready(function () {
         , navText: ["<img src='assets/img/left_arrow.png'>", "<img src='assets/img/right_arrow.png'>"]
         , responsive: {
             0: {
-                items: 2
-                , nav: false
+                items: 2,
+                dots: true
             },
             768: {
-                items: 4
+                items: 4,
+                dots: false
             }
             , 1024: {
-                items: 5
+                items: 4,
+                dots: false
+            }
+            , 1280: {
+                items: 5,
+                dots: false
             }
         }
     });

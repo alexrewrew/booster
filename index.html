@@ -91,10 +91,10 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-2">
+                    <div class="col-md-2">
 
                     </div>
-                    <div class="col-lg-10">
+                    <div class="col-md-10">
                         <ul class="menu_ul">
                             <li><a href="#first">Про продукт</a></li>
                             <li><a href="#second">Як це працює?</a></li>
@@ -113,7 +113,7 @@
     </section>
     <section class="container">
         <div class="row">
-            <div class="col-lg-2">
+            <div class="col-md-2">
 
                 <div class="arrow_container">
                     <div class="box_separator"></div>
@@ -123,15 +123,24 @@
                     <div class="box_separator"></div>
                 </div>
             </div>
-            <div class="col-lg-10"><div class="jumbo_lead"><img src="assets/img/mphcosmetics.png" class="logo_pic">
-                <p>Зроби свій погляд виразним і розкішним навіть без макіяжу! </p>
-                <p><a href="#eight"
-                        class="custom_button">Замовити</a></p>
-            </div></div>
+            <div class="col-md-10">
+                <div class="jumbo_lead"><img src="assets/img/mphcosmetics.png" class="logo_pic">
+                    <p class="hidden-xs">Зроби свій погляд виразним і розкішним навіть без макіяжу! </p>
+                    <p class="hidden-xs"><a href="#eight"
+                            class="custom_button">Замовити</a></p>
+                </div>
+            </div>
 
         </div>
     </section>
 </header>
+<section class="container-fluid mobile_head_add">
+    <div class="row">
+        <div class="col-xs-12 "><p>Зроби свій погляд розкішним без макіяжу! </p>
+            <p><a href="#eight"
+                    class="custom_button">Замовити</a></p></div>
+    </div>
+</section>
 <section class="container about_product" id="first" style="overflow:hidden;">
     <div class="row" data-scroll-speed="14">
         <div class="col-lg-12">
@@ -469,9 +478,12 @@
                     <input type="text" placeholder="Ім'я">
                     <input type="tel" placeholder="Телефон">
                     <input type="text" placeholder="Прізвіще">
-                    <div class="number" style="color:#000">
-                        <input type="text" placeholder="Кількість" value="1"/> <span class="plus">+</span> <span
-                            class="minus">-</span></div>
+                    <div class="number">
+                        <input type="text" placeholder="Кількість" value="1" id="pm"/>
+                        <div class="action"><span class="minus">-</span>
+                            <span class="plus">+</span></div>
+
+                    </div>
                     <button class="custom_button">Замовити</button>
                 </form>
                 <p class="copyright">Згода на обробку персональної інформації</p>

@@ -9,6 +9,10 @@ body {
 	padding: 0;
 }
 
+.mobile_head_add {
+	display: none;
+}
+
 h2 {
 	font-family: 'Circe', sans-serif;
 	font-size: 2.250em;
@@ -65,6 +69,7 @@ input {
 
 	border: none;
 	border-bottom: 1px solid #000;
+	-webkit-appearance:none;
 }
 
 input:focus {
@@ -103,6 +108,15 @@ header {
 	position: relative;
 
 	min-height: 600px;
+
+	background: rgba(197,199,211,1);
+	background: -moz-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(197,199,211,1)), color-stop(100%, rgba(173,175,187,1)));
+	background: -webkit-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
+	background: -o-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
+	background: -ms-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
+	background: linear-gradient(to right, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c5c7d3', endColorstr='#adafbb', GradientType=1 );
 }
 
 header > .container-fluid {
@@ -548,8 +562,9 @@ header .custom_button {
 }
 
 .right_warranty .gray_box {
-	top: 80px;
-	left: -76px;
+	top: 82px;
+	left: -80px;
+
 }
 
 .certificate_row {
@@ -697,13 +712,17 @@ footer .custom_button {
 	position: relative;
 
 	display: inline;
+	color: #000;
+}
+
+.action {
+	position: absolute;
+	top: -3px;
+	right:17px;
 }
 
 .plus,
 .minus {
-	position: absolute;
-	top: -3px;
-
 	cursor: pointer;
 
 	color: #fff;

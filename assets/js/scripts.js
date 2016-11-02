@@ -24,7 +24,7 @@ $(document).ready(function() {
         $('.menu_collapse').hide('slow');
     });
     //
-    if ($(window).width() > '1024') {
+    if ($(window).width() > '1280') {
 
         $.fn.moveIt = function() {
             var $window = $(window);
@@ -53,7 +53,7 @@ $(document).ready(function() {
     });
 
     $('.minus').click(function() {
-        var $input = $(this).parent().find('input');
+        var $input = $('#pm');
         var count = parseInt($input.val()) - 1;
         count = count < 1 ? 1 : count;
         $input.val(count);
@@ -61,7 +61,7 @@ $(document).ready(function() {
         return false;
     });
     $('.plus').click(function() {
-        var $input = $(this).parent().find('input');
+        var $input = $('#pm');
         $input.val(parseInt($input.val()) + 1);
         $input.change();
         return false;
