@@ -35,16 +35,13 @@
     <meta name="theme-color" content="#ffffff">
   -->
     <link rel="stylesheet" type="text/css" href="assets/fonts/fonts.css">
-    <!-- Font-Awesome -->
-    <link rel="stylesheet" type="text/css"
-            href="assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css">
     <!-- Elusive Icons -->
     <link rel="stylesheet" type="text/css"
             href="assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css">
-    <!-- Pixeden Icons -->
-    <link rel="stylesheet" type="text/css" href="assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css">
     <!-- jQuery -->
     <script type="text/javascript" src="assets/plugins/libaries/jquery/jquery-3.1.1.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/libaries/jquery/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="assets/plugins/libaries/jquery/jquery.mousewheel.min.js"></script>
     <!-- Bootstrap -->
     <link rel="stylesheet" type="text/css" href="assets/plugins/framework/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css">
@@ -54,6 +51,8 @@
     <link rel="stylesheet" type="text/css"
             href="assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css">
     <script type="text/javascript" src="assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.js"></script>
+    <!-- scroll -->
+    <script src="assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js"></script>
     <!-- style -->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style-media.css">
@@ -62,19 +61,59 @@
     <script type="text/javascript" src="assets/js/scripts.js"></script>
     <script src="assets/plugins/optimize/modernizr/modernizr.min.js"></script>
     <!--[if lt IE 9]>
-    <script src="assets/plugins/optimize/html5shiv/html5shiv.min.js"></script>
-    <script src="assets/plugins/optimize/respond/respond.min.js"></script>
+        <script src="assets/plugins/optimize/html5shiv/html5shiv.min.js"></script>
+        <script src="assets/plugins/optimize/respond/respond.min.js"></script>
     <![endif]-->
-</head>
 
+</head>
 <body>
+<script>
+    SmoothScroll({stepSize: 60, animationTime: 2000, frameRate: 1500})
+</script>
+<section class="container-fluid fixed_menu">
+    <div class="row">
+        <div class="col-lg-2">
+            <div class="main_menu">
+                <a class="menu_button" id="call_menu"><img src="assets/img/menu_button.png"></a>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="container-fluid menu_collapse">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="row">
+                <div class="col-lg-12">
+                    <a class="menu_button close_button" id="hide_menu"><img src="assets/img/close_button.png"></a>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2">
+
+                </div>
+                <div class="col-md-10">
+                    <ul class="menu_ul">
+                        <li><a href="#first" class="smooth">Про продукт</a></li>
+                        <li><a href="#second" class="smooth">Як це працює?</a></li>
+                        <li><a href="#third" class="smooth">Плюси використання</a></li>
+                        <li><a href="#fourth" class="smooth">Наші користувачі</a></li>
+                        <li><a href="#fifth" class="smooth">Ефективність</a></li>
+                        <li><a href="#sixth" class="smooth">Гарантія якості</a></li>
+                        <li><a href="#seventh" class="smooth">Відгуки клієнтів</a></li>
+                        <li><a href="#eight" class="smooth">Контакти</a></li>
+                        <li><a href="#eight" class="order_button smooth">Замовити</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 <header>
     <section class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <div class="main_menu">
-                    <a class="menu_button" id="call_menu"><img src="assets/img/menu_button.png"></a>
-                </div>
                 <div class="before_after_slider">
                     <div class="color"><img src="assets/img/var2/Main_Photo_28_10_V3.jpg" alt=""/></div>
                     <div class="black_white"><img src="assets/img/var2/Main_Photo_28_10_V3_Hower.jpg" alt=""/></div>
@@ -82,35 +121,8 @@
             </div>
         </div>
     </section>
-    <section class="container-fluid menu_collapse">
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <a class="menu_button close_button" id="hide_menu"><img src="assets/img/close_button.png"></a>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-2">
 
-                    </div>
-                    <div class="col-md-10">
-                        <ul class="menu_ul">
-                            <li><a href="#first">Про продукт</a></li>
-                            <li><a href="#second">Як це працює?</a></li>
-                            <li><a href="#third">Плюси використання</a></li>
-                            <li><a href="#fourth">Наші користувачі</a></li>
-                            <li><a href="#fifth">Ефективність</a></li>
-                            <li><a href="#sixth">Гарантія якості</a></li>
-                            <li><a href="#seventh">Відгуки клієнтів</a></li>
-                            <li><a href="#eight">Контакти</a></li>
-                            <li><a href="#eight" class="order_button">Замовити</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+
     <section class="container">
         <div class="row">
             <div class="col-md-2">
@@ -127,7 +139,7 @@
                 <div class="jumbo_lead"><img src="assets/img/mphcosmetics.png" class="logo_pic">
                     <p class="hidden-xs">Зроби свій погляд виразним і розкішним навіть без макіяжу! </p>
                     <p class="hidden-xs"><a href="#eight"
-                            class="custom_button">Замовити</a></p>
+                            class="custom_button smooth">Замовити</a></p>
                 </div>
             </div>
 
@@ -138,7 +150,7 @@
     <div class="row">
         <div class="col-xs-12 "><p>Зроби свій погляд розкішним без макіяжу! </p>
             <p><a href="#eight"
-                    class="custom_button">Замовити</a></p></div>
+                    class="custom_button smooth">Замовити</a></p></div>
     </div>
 </section>
 <section class="container about_product" id="first" style="overflow:hidden;">
@@ -147,7 +159,8 @@
             <h2>Про продукт</h2></div>
     </div>
     <div class="row">
-        <div class="col-sm-5 col-md-6 col-lg-5 parallax1" data-scroll-speed="4"><img src="assets/img/01_wimpern.png" alt="" class="img_wimpern"><img src="assets/img/gray_box.png" alt=""
+        <div class="col-sm-5 col-md-6 col-lg-5 parallax1" data-scroll-speed="4"><img src="assets/img/01_wimpern.png"
+                alt="" class="img_wimpern"><img src="assets/img/gray_box.png" alt=""
                 class="gray_box">
         </div>
         <div class="col-sm-7 col-md-5 col-lg-6 right_text_col" data-scroll-speed="10">
@@ -216,7 +229,7 @@
         </div>
         <div class="col-sm-6 pluses_box right_pluses" data-scroll-speed="6">
             <img src="assets/img/stage1.png"
-                alt="">
+                    alt="">
             <h4>Принцип дії<br> EYELASH BOOSTER</h4>
             <ul class="main_ul slave_ul">
                 <li><b>1. Подовження циклу росту вій:</b> Волосся росте протягом більш тривалого періоду часу.</li>
@@ -233,8 +246,12 @@
         </div>
         <div class="col-sm-6 col-lg-5 effective" data-scroll-speed="5"><img src="" alt="">
             <h4>Ефективна дія<br>EYELASH BOOSTER</h4></div>
-        <div class="col-sm-6 effective" data-scroll-speed="3"><img src="assets/img/03_eye.png" alt=""
-                class="img_effective"></div>
+        <div class="col-sm-6 effective" data-scroll-speed="3">
+            <video width="390" height="189" class="img_effective" autoplay>
+                <source src="assets/video/for%20site.mov" type="video/mp4">
+                Встановыть новышу версыю вашого браузера
+            </video>
+        </div>
     </div>
 </section>
 <section class="container about_product parallax3">
@@ -265,8 +282,8 @@
 </section>
 <section class="container about_product" data-scroll-speed="10">
     <div class="row">
-        <div class="col-lg-7">
-            <button class="custom_button">Спробувати зараз</button>
+        <div class="col-lg-7 button_col">
+            <a class="custom_button smooth" href="#eight">Спробувати зараз</a>
         </div>
         <div class="col-lg-5"></div>
     </div>
@@ -356,7 +373,8 @@
             <h2>Гарантія якості</h2></div>
     </div>
     <div class="row">
-        <div class="col-sm-5 gray_mobile" data-scroll-speed="4"><img src="assets/img/doctor.png" alt="" class="doctor_img"> <img src="assets/img/gray_box.png" alt=""
+        <div class="col-sm-5 gray_mobile" data-scroll-speed="4"><img src="assets/img/doctor.png" alt=""
+                class="doctor_img"> <img src="assets/img/gray_box.png" alt=""
                 class="gray_box"></div>
         <div class="col-sm-6" data-scroll-speed="10">
             <p class="relative_text">Згідно Висновку державної санітарно-епідеміологічної експертизи від 22 вересня
@@ -400,13 +418,13 @@
 </section>
 <section class="container about_product padding_zero_top" data-scroll-speed="10">
     <div class="row">
-        <div class="col-lg-7">
-            <button class="custom_button">Зробити замовлення</button>
+        <div class="col-lg-7 button_col">
+            <a class="custom_button smooth" href="#eight">Зробити замовлення</a>
         </div>
         <div class="col-lg-5"></div>
     </div>
 </section>
-<section class="container about_product" id="seventh"  data-scroll-speed="10">
+<section class="container about_product" id="seventh" data-scroll-speed="10">
     <div class="row">
         <div class="col-lg-6"></div>
         <div class="col-lg-6">

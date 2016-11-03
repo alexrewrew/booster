@@ -11,23 +11,28 @@
 
 	.mobile_head_add {
 		display: block;
-		background: #a1a1a1;
+
 		padding-top: 30px;
+
+		background: #a1a1a1;
 	}
 
 	.mobile_head_add .custom_button {
 		font-size: 1.250em;
+
 		display: inline-block;
-		padding: 11px 0;
+
 		margin: 0;
+		padding: 11px 0;
 	}
 
 	.mobile_head_add p {
 		font-size: 1.350em;
 
-		color: #fff;
 		margin-bottom: 0;
 		padding: 0 0 30px 0;
+
+		color: #fff;
 	}
 
 	.jumbo_lead {
@@ -61,8 +66,6 @@
 
 	.menu_collapse {
 		width: 100%;
-		min-height: 463px;
-		margin-left: 15px;
 	}
 
 	.menu_ul {
@@ -71,9 +74,18 @@
 	}
 
 	.close_button {
-		top: 34px;
+		top: 18px;
 		right: auto;
-		left: 35px;
+		left: 26px;
+	}
+
+	.fixed_menu {
+		top: -25px;
+		left: -20px;
+	}
+
+	.main_menu {
+		padding-top: 7px;
 	}
 
 	.arrow_container {
@@ -132,8 +144,8 @@
 		padding: 0;
 	}*/
 	.effective {
-		padding-left: 15px;
 		padding-top: 0;
+		padding-left: 15px;
 	}
 
 	.image_box {
@@ -179,8 +191,9 @@
 
 	.item .col-lg-12,
 	.name {
-		height: 146px;
 		font-size: 1em;
+
+		height: 146px;
 	}
 
 	.owl-nav {
@@ -192,8 +205,8 @@
 
 	.owl-dots {
 		position: absolute;
-		left: 37%;
 		bottom: -48px;
+		left: 37%;
 	}
 
 	.owl-dots .owl-dot {
@@ -201,20 +214,23 @@
 	}
 
 	.owl-dots .owl-dot span {
-		background: none repeat scroll 0 0 #869791;
-		border-radius: 20px;
 		display: block;
+
+		width: 12px;
 		height: 12px;
 		margin: 5px 7px;
-		opacity: 0.5;
-		width: 12px;
+
+		opacity: .5;
+		border-radius: 20px;
+		background: none repeat scroll 0 0 #869791;
 	}
 
 	.owl-dots .owl-dot.active span {
 		opacity: 1;
 	}
 
-	.owl-prev img, .owl-next img {
+	.owl-prev img,
+	.owl-next img {
 		width: 20px;
 		height: 35px;
 	}
@@ -222,6 +238,7 @@
 	.relative_text {
 		top: 10px;
 		left: 0;
+
 		padding: 15px 0;
 	}
 
@@ -251,8 +268,8 @@
 	}
 
 	.comment_row {
-		padding: 50px 15px 26px 15px;
 		margin-bottom: 50px;
+		padding: 50px 15px 26px 15px;
 	}
 
 	.comment_row img {
@@ -309,9 +326,8 @@
 		position: static;
 
 		min-width: 70%;
-		padding: 20px 30px 30px 40px;
-
 		margin-top: 90px;
+		padding: 20px 30px 30px 40px;
 	}
 
 	.jumbo_lead p {
@@ -319,7 +335,8 @@
 		margin-bottom: 60px;
 	}
 
-	header .custom_button, .custom_button {
+	header .custom_button,
+	.custom_button {
 		font-size: 1.375em;
 	}
 
@@ -391,6 +408,19 @@
 
 	.custom_button {
 		width: 52%;
+	}
+
+	header .custom_button {
+		width: 90%;
+	}
+
+	.fixed_menu {
+		top: 38px;
+		left: 20px;
+	}
+
+	.close_button {
+		left: 52px;
 	}
 
 	#customers .item img {
@@ -586,7 +616,10 @@
 		padding-top: 0;
 	}
 
-	.box1, .box2, .box3, .box4 {
+	.box1,
+	.box2,
+	.box3,
+	.box4 {
 		position: relative;
 	}
 
@@ -605,45 +638,48 @@
 	.box4 {
 		top: 28px;
 	}
+
 	/**/
 	#fourth {
 		position: relative;
-		top:142px;
+		top: 142px;
 	}
 
 	#fifth {
 		position: relative;
-		top:173px;
+		top: 173px;
 	}
+
 	.gray_mobile {
 		position: relative;
-		top:607px;
+		top: 607px;
 	}
+
 	.relative_text {
-		top:20px;
+		top: 20px;
 	}
+
 	#fifth .gray_box {
 		top: 34px;
 	}
 
 	#sixth {
 		position: relative;
-		top:468px;
+		top: 468px;
 	}
 
 	.left_warranty {
 		position: relative;
-		top:-102px;
+		top: -102px;
 	}
+
 	.right_warranty {
-		margin-top:109px;
+		margin-top: 109px;
 	}
+
 	.padding_zero_top {
 		margin-top: 100px;
 	}
-
-
-
 
 	.footer_front {
 		width: 50%;
