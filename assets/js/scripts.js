@@ -22,7 +22,7 @@ $(document).ready(function() {
             top = $(id).offset().top;
         $('body,html').animate({
             scrollTop: top
-        }, 3000);
+        }, 1500);
     });
     // menu //
     $('#call_menu').click(function() {

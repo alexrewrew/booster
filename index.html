@@ -61,14 +61,14 @@
     <script type="text/javascript" src="assets/js/scripts.js"></script>
     <script src="assets/plugins/optimize/modernizr/modernizr.min.js"></script>
     <!--[if lt IE 9]>
-        <script src="assets/plugins/optimize/html5shiv/html5shiv.min.js"></script>
-        <script src="assets/plugins/optimize/respond/respond.min.js"></script>
+    <script src="assets/plugins/optimize/html5shiv/html5shiv.min.js"></script>
+    <script src="assets/plugins/optimize/respond/respond.min.js"></script>
     <![endif]-->
 
 </head>
 <body>
 <script>
-    SmoothScroll({stepSize: 60, animationTime: 2000, frameRate: 1500})
+    SmoothScroll({stepSize: 50, animationTime: 800, frameRate: 1500})
 </script>
 <section class="container-fluid fixed_menu">
     <div class="row">
@@ -126,14 +126,16 @@
     <section class="container">
         <div class="row">
             <div class="col-md-2">
-
+                <a href="#first" class="smooth arrow_link">
                 <div class="arrow_container">
-                    <div class="box_separator"></div>
-                    <div class="box_arrow">
-                        <a href="#first"><img src="assets/img/arrow_down.png" alt=""></a>
-                    </div>
-                    <div class="box_separator"></div>
-                </div>
+
+                        <div class="box_separator"></div>
+                        <div class="box_arrow">
+                            <img src="assets/img/arrow_down.png" alt="">
+                        </div>
+                        <div class="box_separator"></div>
+
+                </div> </a>
             </div>
             <div class="col-md-10">
                 <div class="jumbo_lead"><img src="assets/img/mphcosmetics.png" class="logo_pic">
@@ -247,7 +249,7 @@
         <div class="col-sm-6 col-lg-5 effective" data-scroll-speed="5"><img src="" alt="">
             <h4>Ефективна дія<br>EYELASH BOOSTER</h4></div>
         <div class="col-sm-6 effective" data-scroll-speed="3">
-            <video width="390" height="189" class="img_effective" autoplay>
+            <video width="390" height="189" class="img_effective" autoplay loop>
                 <source src="assets/video/for%20site.mov" type="video/mp4">
                 Встановыть новышу версыю вашого браузера
             </video>
