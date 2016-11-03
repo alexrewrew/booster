@@ -111,7 +111,7 @@ header {
 
 	background: rgba(197,199,211,1);
 	background: -moz-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
-	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(197,199,211,1)), color-stop(100%, rgba(173,175,187,1)));
+	/*background: -webkit-gradient(left top, right top, color-stop(0%, rgba(197,199,211,1)), color-stop(100%, rgba(173,175,187,1)));*/
 	background: -webkit-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
 	background: -o-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
 	background: -ms-linear-gradient(left, rgba(197,199,211,1) 0%, rgba(173,175,187,1) 100%);
@@ -467,7 +467,7 @@ header > .container-fluid {
 
 header .custom_button {
 	font-family: 'Proxima Nova Rg', sans-serif;
-	font-size: 1.750em;
+	font-size: 1.250em;
 	font-weight: 500;
 
 	padding: 11px 84px;

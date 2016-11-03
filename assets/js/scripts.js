@@ -24,7 +24,7 @@ $(document).ready(function() {
         $('.menu_collapse').hide('slow');
     });
     //
-    if ($(window).width() > '1280') {
+    if ($(window).width() > '1200') {
 
         $.fn.moveIt = function() {
             var $window = $(window);

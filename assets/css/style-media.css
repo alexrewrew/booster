@@ -4,6 +4,7 @@
 	html {
 		overflow-x: hidden;
 	}
+
 	header {
 		min-height: 463px;
 	}
@@ -262,6 +263,7 @@
 	.comment_row h5 {
 		text-align: center;
 	}
+
 	.comment_row h5 {
 		margin-bottom: 35px;
 	}
@@ -318,7 +320,7 @@
 	}
 
 	header .custom_button, .custom_button {
-		font-size:1.375em;
+		font-size: 1.375em;
 	}
 
 	.menu_collapse {
@@ -467,9 +469,11 @@
 	html {
 		overflow-x: hidden;
 	}
+
 	header {
 		overflow-x: hidden;
 	}
+
 	.jumbo_lead {
 		top: 95px;
 
@@ -505,6 +509,142 @@
 /* Large devices (large desktops, 1200px and up) */
 
 @media (min-width: 1200px) {
+	/* parallax styles */
+	/* secion1 */
+	#first {
+		padding-top: 109px;
+	}
+
+	#first .right_text_col {
+		padding-top: 17px;
+	}
+
+	.first_line {
+		top: 350px;
+	}
+
+	.second_line {
+		top: -80px;
+	}
+
+	.img_wimpern {
+		padding-top: 110px;
+	}
+
+	.gray_box {
+		top: 143px;
+	}
+
+	/*section2*/
+	#second {
+		padding-top: 113px;
+	}
+
+	.img_eye {
+		top: 322px;
+	}
+
+	.how_it {
+		padding-bottom: 100px;
+	}
+
+	/*section3 */
+	#third {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+
+	.pluses_box {
+		padding-top: 103px;
+	}
+
+	.left_pluses_parallax {
+		padding-top: 233px;
+	}
+
+	.vert_gray {
+		top: 388px;
+	}
+
+	.left_pluses_parallax .vert_gray {
+		top: 522px;
+	}
+
+	.parallax2 {
+		padding-top: 500px;
+	}
+
+	.img_effective {
+		top: 340px;
+	}
+
+	.third_line {
+		top: 457px;
+	}
+
+	.parallax3 {
+		padding-top: 0;
+	}
+
+	.box1, .box2, .box3, .box4 {
+		position: relative;
+	}
+
+	.box1 {
+		top: 587px;
+	}
+
+	.box2 {
+		top: 252px;
+	}
+
+	.box3 {
+		top: 108px;
+	}
+
+	.box4 {
+		top: 28px;
+	}
+	/**/
+	#fourth {
+		position: relative;
+		top:142px;
+	}
+
+	#fifth {
+		position: relative;
+		top:173px;
+	}
+	.gray_mobile {
+		position: relative;
+		top:607px;
+	}
+	.relative_text {
+		top:20px;
+	}
+	#fifth .gray_box {
+		top: 34px;
+	}
+
+	#sixth {
+		position: relative;
+		top:468px;
+	}
+
+	.left_warranty {
+		position: relative;
+		top:-102px;
+	}
+	.right_warranty {
+		margin-top:109px;
+	}
+	.padding_zero_top {
+		margin-top: 100px;
+	}
+
+
+
+
 	.footer_front {
 		width: 50%;
 	}
