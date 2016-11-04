@@ -1,6 +1,9 @@
 /* Extra small devices (phones, less than 768px) */
 
 @media screen and (max-width: 767px) {
+	#l2, #l3, #l4, #l5, #l6, #l7 {
+		position: static;
+	}
 	html {
 		overflow-x: hidden;
 	}
@@ -540,6 +543,10 @@
 /* Large devices (large desktops, 1200px and up) */
 
 @media (min-width: 1200px) {
+	header {
+		overflow: hidden;
+	}
+
 	/* parallax styles */
 	/* secion1 */
 	#first {
@@ -693,5 +700,43 @@
 
 	.comment_row {
 		margin-bottom: 0;
+	}
+
+	/* fix nav */
+	#l2, #l3, #l4, #l5, #l6, #l7 {
+		position: relative;
+	}
+
+	#l2 {
+		top: -350px;
+	}
+
+	#l3 {
+		top: -280px;
+	}
+
+	#l4 {
+		top: -450px;
+	}
+
+	#l5 {
+		top: -450px;
+	}
+
+	#l6 {
+		top: -775px;
+	}
+
+	.right_warranty .gray_box {
+		top: 139px;
+	}
+
+	.img_certificate {
+		top: 83px;
+
+	}
+
+	#l7 {
+		top: -560px;
 	}
 }
