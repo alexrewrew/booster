@@ -59,6 +59,7 @@
     <!-- Main Scripts -->
     <script type="text/javascript" src="assets/js/plugins.js"></script>
     <script type="text/javascript" src="assets/js/scripts.js"></script>
+    <script type="text/javascript" src="contact-form.js"></script>
     <script src="assets/plugins/optimize/modernizr/modernizr.min.js"></script>
     <!--[if lt IE 9]>
     <script src="assets/plugins/optimize/html5shiv/html5shiv.min.js"></script>
@@ -74,7 +75,7 @@
     <div class="row">
         <div class="col-lg-2">
             <div class="main_menu">
-                <a class="menu_button" id="call_menu"><img src="assets/img/menu_button.png"></a>
+                <a class="menu_button" id="call_menu"><img src="assets/img/icons/Burger2.svg" id="burger"></a>
             </div>
         </div>
     </div>
@@ -84,7 +85,7 @@
         <div class="col-lg-12">
             <div class="row">
                 <div class="col-lg-12">
-                    <a class="menu_button close_button" id="hide_menu"><img src="assets/img/close_button.png"></a>
+                    <a class="menu_button close_button" id="hide_menu"><img src="assets/img/icons/Krest.svg"></a>
                 </div>
             </div>
             <div class="row">
@@ -94,12 +95,12 @@
                 <div class="col-md-10">
                     <ul class="menu_ul">
                         <li><a href="#first" class="smooth">Про продукт</a></li>
-                        <li><a href="#second" class="smooth">Як це працює?</a></li>
-                        <li><a href="#third" class="smooth">Плюси використання</a></li>
-                        <li><a href="#fourth" class="smooth">Наші користувачі</a></li>
-                        <li><a href="#fifth" class="smooth">Ефективність</a></li>
-                        <li><a href="#sixth" class="smooth">Гарантія якості</a></li>
-                        <li><a href="#seventh" class="smooth">Відгуки клієнтів</a></li>
+                        <li><a href="#l2" class="smooth">Як це працює?</a></li>
+                        <li><a href="#l3" class="smooth">Плюси використання</a></li>
+                        <li><a href="#l4" class="smooth">Наші користувачі</a></li>
+                        <li><a href="#l5" class="smooth">Гарантія якості</a></li>
+                        <li><a href="#l6" class="smooth">Ефективність</a></li>
+                        <li><a href="#l7" class="smooth">Відгуки клієнтів</a></li>
                         <li><a href="#eight" class="smooth">Контакти</a></li>
                         <li><a href="#eight" class="order_button smooth">Замовити</a></li>
                     </ul>
@@ -127,7 +128,7 @@
         <div class="row">
             <div class="col-md-2">
                 <a href="#first" class="smooth arrow_link">
-                <div class="arrow_container">
+                    <div class="arrow_container">
 
                         <div class="box_separator"></div>
                         <div class="box_arrow">
@@ -135,7 +136,8 @@
                         </div>
                         <div class="box_separator"></div>
 
-                </div> </a>
+                    </div>
+                </a>
             </div>
             <div class="col-md-10">
                 <div class="jumbo_lead"><img src="assets/img/mphcosmetics.png" class="logo_pic">
@@ -175,7 +177,7 @@
             <ul class="main_ul">
                 <li><span class="point_li">•</span> Зміцнює та подовжує вії, робить їх об’ємними.</li>
                 <li><span class="point_li">•</span> Зменшує випадіння вій.</li>
-                <li><span class="point_li">•</span> Легко й швидко наноситься за допомогою пензлика-аплікатора.</li>
+                <li><span class="point_li" id="l2">•</span> Легко й швидко наноситься за допомогою пензлика-аплікатора.</li>
             </ul>
         </div>
         <div class="col-md-1">
@@ -202,16 +204,16 @@
                     <li><span class="point_li">•</span> Зміцнюють корінь волосини.</li>
                     <li><span class="point_li">•</span> Уповільнюють процес випадіння вій.</li>
                 </ul>
-                <p>При регулярному використанні EYELASH BOOSTER здатна посилити ріст, зміцнити та ущільнити природні
+                <p id="l3">При регулярному використанні EYELASH BOOSTER здатна посилити ріст, зміцнити та ущільнити природні
                     вії. Для того, щоб досягти максимального росту, сироватку необхідно застосовувати щодня протягом 6–8
                     тижнів. </p>
             </div>
-            <div class="col-md-5 text-right padding_zero"><img src="assets/img/02_eye.png" class="img_eye"
+            <div class="col-md-5 text-right padding_zero" ><img src="assets/img/02_eye.png" class="img_eye"
                     style="float:right" data-scroll-speed="2"></div>
         </div>
     </section>
 </div>
-<section class="container about_product about_pluses" id="third">
+<section class="container about_product about_pluses" id="#third">
     <div class="row">
         <div class="col-lg-12" data-scroll-speed="7">
             <h2>Перші результати можна<br> побачити вже після 30 днів</h2></div>
@@ -256,35 +258,35 @@
         </div>
     </div>
 </section>
-<section class="container about_product parallax3">
+<section class="container about_product parallax3" >
     <div class="row">
         <div class="col-lg-12" data-scroll-speed="10">
             <h2>Як застосовувати<br> EYELASH BOOSTER?</h2></div>
     </div>
     <div class="row pluses_row">
         <div class="col-sm-3 image_box box1" data-scroll-speed="3">
-            <p class="text-center"><img src="assets/img/noun/noun1.png" alt=""></p>
+            <p class="text-center"><img src="assets/img/icons/Icon_1.svg" alt=""></p>
             <p>Наносьте сироватку на очищену шкіру повік один раз на день, бажано ввечері.</p>
         </div>
         <div class="col-sm-3 image_box box1" data-scroll-speed="3">
-            <p class="text-center"><img src="assets/img/noun/noun2.png" alt=""></p>
+            <p class="text-center"><img src="assets/img/icons/Icon_2.svg" alt=""></p>
             <p>Для цього проведіть пензликом по верхній лінії росту вій (безпосередньо по коріннях вій).</p>
         </div>
         <div class="col-sm-3 image_box box1" data-scroll-speed="3">
-            <p class="text-center"><img src="assets/img/noun/noun1.png" alt=""></p>
+            <p class="text-center"><img src="assets/img/icons/Icon_3.svg" alt=""></p>
             <p>Зачекайте 2 хвилини, щоб засіб увібрався. Після цього ви можете використовувати інші засоби для
                 догляду.</p>
         </div>
         <div class="col-sm-3 image_box box1" data-scroll-speed="3">
-            <p class="text-center"><img src="assets/img/noun/noun2.png" alt=""></p>
+            <p class="text-center"><img src="assets/img/icons/Icon_4.svg" alt=""></p>
             <p>Щоб закріпити результат від використання сироватки, після закінчення курсу продовжуйте наносити її 1–2
                 рази на тиждень.</p>
         </div>
     </div>
 </section>
-<section class="container about_product" data-scroll-speed="10">
+<section class="container about_product" data-scroll-speed="10" id="l4">
     <div class="row">
-        <div class="col-lg-7 button_col">
+        <div class="col-lg-7 button_col" >
             <a class="custom_button smooth" href="#eight">Спробувати зараз</a>
         </div>
         <div class="col-lg-5"></div>
@@ -356,12 +358,12 @@
                 </div>
                 <div class="item">
                     <div class="row">
-                        <div class="col-lg-12 ">
+                        <div class="col-lg-12" id="l5">
                             <div class="name">
                                 <p>#Lorem Ipsum #текст-"риба" стандартно </p>
                             </div>
                         </div>
-                        <div class="col-lg-12"><img src="assets/img/clients/client1.png" class="img-responsive"
+                        <div class="col-lg-12" ><img src="assets/img/clients/client1.png" class="img-responsive"
                                 alt=""></div>
                     </div>
                 </div>
@@ -370,7 +372,7 @@
     </div>
 </section>
 <section class="container about_product" id="fifth">
-    <div class="row">
+    <div class="row" id="l6">
         <div class="col-lg-12" data-scroll-speed="10">
             <h2>Гарантія якості</h2></div>
     </div>
@@ -383,11 +385,16 @@
                 2016 № 602-123-20-3/32 та результатів державної санітарно- епідеміологічної експертизи, об’єкт
                 експертизи Eyelash Booster сироватка для росту та зміцнення вій відповідає вимогам діючого санітарного
                 законодавства України. </p>
+            <div class="row pdf_row">
+                <div class="col-xs-3"></div>
+                <div class="col-xs-2"><img src="assets/img/icons/pdf.png" alt=""></div>
+                <div class="col-xs-7"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab, assumenda aut dicta distinctio doloremque</p></div>
+            </div>
         </div>
         <div class="hidden-sm col-md-1"></div>
     </div>
 </section>
-<section class="cotainer-fluid">
+<section class="cotainer-fluid" >
     <div class="row">
         <div class="col-lg-12"><img src="assets/img/line.png" alt="" class="line_back"></div>
     </div>
@@ -408,17 +415,17 @@
             <div class="row certificate_row">
                 <div class="col-xs-2"><img src="assets/img/noun/noun1.png" alt=""></div>
                 <div class="col-xs-10">
-                    <p class="certificate_text">Lorem Ipsum - це текст-"риба", що використовується в друкарстві та
+                    <p class="certificate_text" id="l7">Lorem Ipsum - це текст-"риба", що використовується в друкарстві та
                         дизайні. Lorem Ipsum є, фактично, стандартною</p>
                 </div>
             </div>
         </div>
-        <div class="col-sm-5 col-md-5 right_warranty gray_mobile" data-scroll-speed="3"><img
+        <div class="col-sm-5 col-md-5 right_warranty gray_mobile" data-scroll-speed="3" ><img
                 src="assets/img/certificate.png" alt="" class="img_certificate"><img
                 src="assets/img/gray_box.png" alt="" class="gray_box"></div>
     </div>
 </section>
-<section class="container about_product padding_zero_top" data-scroll-speed="10">
+<section class="container about_product padding_zero_top" data-scroll-speed="10" >
     <div class="row">
         <div class="col-lg-7 button_col">
             <a class="custom_button smooth" href="#eight">Зробити замовлення</a>
@@ -493,16 +500,16 @@
             <div class="col-sm-6 col-md-12 footer_left">
                 <div class="horz_blue fourth_line"></div>
                 <h3>Зробити замовлення</h3>
-                <form action="">
-                    <input type="text" placeholder="Ім'я">
-                    <input type="tel" placeholder="Телефон">
-                    <input type="text" placeholder="Прізвіще">
+                <form id="contact-form" action="send.php" method= "POST">
+                    <input type="text" placeholder="Ім'я" id="name">
+                    <input type="tel" placeholder="Телефон" id="phone">
+                    <input type="text" placeholder="Прізвіще" id="surname">
                     <div class="number">
                         <input type="text" placeholder="Кількість" value="1" id="pm"/>
                         <div class="action"><span class="minus">-</span>
                             <span class="plus">+</span></div>
-
                     </div>
+                    <span class="price_text">Сума: <span id="sum">470</span> грн.</span>
                     <button class="custom_button">Замовити</button>
                 </form>
                 <p class="copyright">Згода на обробку персональної інформації</p>
@@ -515,11 +522,11 @@
             <h3>Контакти</h3>
             <p>Адрес: вул. Житомирська 35,
                 <br> м. Київ, Україна
-                <br> Телефон: +38 (097) 555 44 33
+                <br> Телефон: <a href="tel:380975554433">+38 (097) 555 44 33</a>
                 <br> Пошта: hallo@wimpernbooster.com</p>
             <ul class="social_ul">
-                <li><a href=""><i class="el el-facebook"></i></a></li>
-                <li><a href=""><i class="el el-googleplus"></i></a></li>
+                <li><a href="http://www.facebook.com/"><i class="el el-facebook"></i></a></li>
+                <li><a href="http://www.plus.google.com/"><i class="el el-googleplus"></i></a></li>
             </ul>
             <p class="copyright">booster.ua copyright 2016</p>
         </div>

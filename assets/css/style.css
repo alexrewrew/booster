@@ -168,9 +168,7 @@ header > .container-fluid {
 
 	text-align: center;
 
-	background: #c9cbd7;
 }
-
 /* new menu */
 
 .fixed_menu {
@@ -193,6 +191,10 @@ header > .container-fluid {
 	left: 55px;
 
 	cursor: pointer;
+}
+
+.close_button img {
+	height: 33px;
 }
 
 .menu_button:hover,
@@ -328,9 +330,11 @@ header > .container-fluid {
 .box_arrow a:focus {
 	outline: none;
 }
+
 .arrow_link .arrow_container {
 	background: rgba(255, 255, 255, .1);
 }
+
 .arrow_link:hover .arrow_container {
 	background: rgba(255, 255, 255, .3);
 }
@@ -382,6 +386,7 @@ header > .container-fluid {
 }
 
 .main_ul {
+	margin-top: 30px;
 	padding-left: 0;
 
 	list-style: none;
@@ -466,6 +471,7 @@ header > .container-fluid {
 
 .image_box img {
 	padding-bottom: 28px;
+	height: 76px;
 }
 
 /**/
@@ -570,6 +576,10 @@ header .custom_button {
 	position: relative;
 	top: -23px;
 	left: 5px;
+}
+
+.pdf_row{
+	margin-top: 100px;
 }
 
 .line_back {
@@ -772,6 +782,19 @@ footer .custom_button {
 	padding: 0 9px;
 }
 
+#pm {
+	width: 16%;
+	min-width: 0;
+}
+
+.price_text {
+	position: relative;
+	top: 1px;
+	margin-top: 5px;
+	font-size: 1.250em;
+	text-align: right;
+}
+
 .vert_blue {
 	position: absolute;
 	top: 0;
@@ -830,4 +853,9 @@ footer .custom_button {
 	top: 22px;
 	right: auto;
 	left: 95px;
+}
+
+/* form */
+.errorForm {
+	border-bottom:1px solid red;
 }

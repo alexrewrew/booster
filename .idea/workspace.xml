@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b80577c7-52e8-43f6-9f3b-29308ef0d608" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-BoldItalic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-BoldItalic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Extrabold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Extrabold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Extrabold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-ExtraboldItalic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-ExtraboldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-ExtraboldItalic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Italic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Light.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Light.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Semibold.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Semibold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-Semibold.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-SemiboldItalic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-SemiboldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans-SemiboldItalic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSans.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSansLight-Italic.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSansLight-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/Open_Sans/OpenSansLight-Italic.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/demo.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/03_eye.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style-media.css" afterPath="$PROJECT_DIR$/assets/css/style-media.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/fonts.css" afterPath="$PROJECT_DIR$/assets/fonts/fonts.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/scripts.js" afterPath="$PROJECT_DIR$/assets/js/scripts.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
@@ -60,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="128" column="57" selection-start-line="128" selection-start-column="47" selection-end-line="128" selection-end-column="57" />
+            <state relative-caret-position="255">
+              <caret line="417" column="55" selection-start-line="417" selection-start-column="55" selection-end-line="417" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -72,41 +41,41 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="style-media.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11697">
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact-form.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact-form.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="104" column="25" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
+            <state relative-caret-position="227">
+              <caret line="388" column="17" selection-start-line="388" selection-start-column="17" selection-end-line="388" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fonts.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/fonts/fonts.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="plugins.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="31" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+            <state relative-caret-position="720">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -122,11 +91,12 @@
       <list>
         <option value="$PROJECT_DIR$/assets/js/plugins.js" />
         <option value="$PROJECT_DIR$/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js" />
-        <option value="$PROJECT_DIR$/assets/css/style-media.css" />
         <option value="$PROJECT_DIR$/assets/fonts/fonts.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/assets/css/style-media.css" />
+        <option value="$PROJECT_DIR$/contact-form.js" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -170,7 +140,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -199,7 +168,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="source" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -214,62 +183,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scroll" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smoothscroll-for-websites-master" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booster" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booster" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plugins" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libaries" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -305,24 +218,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="fonts" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booster" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="booster" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -330,10 +225,11 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../slimall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
@@ -399,11 +295,14 @@
       <workItem from="1478185248497" duration="173000" />
       <workItem from="1478187783330" duration="121000" />
       <workItem from="1478190752823" duration="1524000" />
+      <workItem from="1478250545330" duration="832000" />
+      <workItem from="1478252971289" duration="5234000" />
+      <workItem from="1478266091489" duration="1080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38770000" />
+    <option name="totallyTimeSpent" value="45916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -445,14 +344,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3912">
-          <caret line="163" column="0" selection-start-line="163" selection-start-column="0" selection-end-line="163" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -812,6 +703,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/scroll/smoothscroll.js" />
+    <entry file="file://$PROJECT_DIR$/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/plugins.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -828,45 +727,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js">
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="26" />
+        <state relative-caret-position="720">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-form.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="51" column="41" selection-start-line="51" selection-start-column="41" selection-end-line="51" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="388" column="17" selection-start-line="388" selection-start-column="17" selection-end-line="388" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        <state relative-caret-position="-11697">
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="128" column="57" selection-start-line="128" selection-start-column="47" selection-end-line="128" selection-end-column="57" />
+        <state relative-caret-position="255">
+          <caret line="417" column="55" selection-start-line="417" selection-start-column="55" selection-end-line="417" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="104" column="25" selection-start-line="104" selection-start-column="25" selection-end-line="104" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>

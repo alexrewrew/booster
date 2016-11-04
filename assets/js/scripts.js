@@ -1,5 +1,23 @@
 $(document).ready(function() {
 
+    $(window).on('load resize', function () {
+        y = $(window).width();
+        /* modal responsive */
+        if (768 < y && y < 3000) {
+            $(window).scroll(function () {
+                if ($(this).scrollTop() > 530) {
+                    $("#burger").attr("src", "assets/img/icons/Burger_1.svg");
+                }
+                else {
+                    $("#burger").attr("src", "assets/img/icons/Burger2.svg");
+                }
+            });
+        }
+        
+    });
+
+    //calculate
+
     // refresh //
     document.location.href='#';
 
@@ -26,10 +44,13 @@ $(document).ready(function() {
     });
     // menu //
     $('#call_menu').click(function() {
+        $('#burger').fadeOut('fast');
         $('.menu_collapse').show('slow');
     });
     $('#hide_menu, .menu_ul>li>a').click(function() {
+
         $('.menu_collapse').hide('slow');
+        $('#burger').fadeIn('fast');
     });
 
     // parallax //
@@ -75,6 +96,14 @@ $(document).ready(function() {
         $input.val(parseInt($input.val()) + 1);
         $input.change();
         return false;
+    });
+
+    //calculate
+    $('#pm').change(function () {
+            var pm = $('#pm').val();
+            var price;
+            price = pm * 470;
+            $('#sum').text(price);
     });
 
 });
