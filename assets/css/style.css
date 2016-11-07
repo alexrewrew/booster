@@ -773,13 +773,13 @@ footer .custom_button {
 .plus {
 	right: 50px;
 
-	padding: 0 8px;
+	padding: 1px 8px;
 }
 
 .minus {
 	right: 17px;
 
-	padding: 0 9px;
+	padding: 1px 9px;
 }
 
 #pm {
@@ -789,10 +789,11 @@ footer .custom_button {
 
 .price_text {
 	position: relative;
-	top: 1px;
+	top: 2px;
 	margin-top: 5px;
 	font-size: 1.250em;
 	text-align: right;
+	color: #bbb;
 }
 
 .vert_blue {
@@ -897,4 +898,8 @@ footer .custom_button {
 .right_price p {
 	color: #81cec5;
 	font-size:1.250em;
+}
+
+.price_btn{
+	margin-top: 22px;
 }
