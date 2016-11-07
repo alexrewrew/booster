@@ -4,6 +4,7 @@
 	#l2, #l3, #l4, #l5, #l6, #l7 {
 		position: static;
 	}
+
 	html {
 		overflow-x: hidden;
 	}
@@ -579,11 +580,11 @@
 	}
 
 	.img_eye {
-		top: 322px;
+		top: 395px;
 	}
 
 	.how_it {
-		padding-bottom: 50px;
+		padding-bottom: 0;
 	}
 
 	/*section3 */
@@ -655,12 +656,12 @@
 
 	#fifth {
 		position: relative;
-		top: 173px;
+		top: 63px;
 	}
 
 	.gray_mobile {
 		position: relative;
-		top: 607px;
+		top: 536px;
 	}
 
 	.relative_text {
@@ -673,7 +674,7 @@
 
 	#sixth {
 		position: relative;
-		top: 468px;
+		top: 250px;
 	}
 
 	.left_warranty {
@@ -738,5 +739,10 @@
 
 	#l7 {
 		top: -560px;
+	}
+
+	/* new */
+	.right_price {
+		top: -86px;
 	}
 }

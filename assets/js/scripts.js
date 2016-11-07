@@ -102,7 +102,7 @@ $(document).ready(function() {
     $('#pm').change(function () {
             var pm = $('#pm').val();
             var price;
-            price = pm * 470;
+            price = pm * 709;
             $('#sum').text(price);
     });
 
