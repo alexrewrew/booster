@@ -318,6 +318,10 @@
 	input {
 		min-width: 100%;
 	}
+
+	#pm {
+		width: 66%;
+	}
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -496,6 +500,12 @@
 	.footer_left {
 		padding: 39px 15px 13px 50px;
 	}*/
+	#pm {
+		width: 23%;
+	}
+    .price_text {
+	    font-size: 0.950em;
+    }
 }
 
 /* Medium devices (desktops, 992px and up) */
@@ -539,6 +549,13 @@
 	.social_ul {
 		margin-bottom: 129px;
 	}
+    #surname {
+	    min-width: 35%;
+    }
+
+    footer {
+	    margin-top: 50px;
+    }
 }
 
 /* Large devices (large desktops, 1200px and up) */
@@ -550,10 +567,7 @@
 
 	/* parallax styles */
 	/* secion1 */
-	#first {
-		position: relative;
-		top: 50px;
-	}
+
 
 	#first .right_text_col {
 		padding-top: 17px;
@@ -576,10 +590,7 @@
 	}
 
 	/*section2*/
-	#second {
-		position:relative;
-		top: 100px;
-	}
+
 
 	.img_eye {
 		top: 395px;
@@ -590,10 +601,7 @@
 	}
 
 	/*section3 */
-	#third {
-		padding-top: 0;
-		padding-bottom: 0;
-	}
+
 
 	.pluses_box {
 		padding-top: 76px;
@@ -625,6 +633,7 @@
 
 	.parallax3 {
 		padding-top: 0;
+
 	}
 
 	.box1,
@@ -651,20 +660,11 @@
 	}
 
 	/**/
-	#fourth {
-		position: relative;
-		top: 142px;
-	}
 
-	#fifth {
-		position: relative;
-		top: 13px;
-		padding-top: 0;
-	}
 
 	.gray_mobile {
 		position: relative;
-		top: 435px;
+		top: 509px;
 	}
 
 	.relative_text {
@@ -675,10 +675,7 @@
 		top: 34px;
 	}
 
-	#sixth {
-		position: relative;
-		top: 180px;
-	}
+
 
 	.left_warranty {
 		position: relative;
@@ -693,16 +690,11 @@
 		margin-top: 10px;
 		padding-top: 0;
 		position: relative;
-		top:-135px;
+		top:-115px;
 	}
 
 	.footer_front {
 		width: 50%;
-	}
-
-	.footer_front,
-	.footer_back {
-		margin-top: 179px;
 	}
 
 	.comment_row {
@@ -735,11 +727,11 @@
 	}
 
 	.right_warranty .gray_box {
-		top: 139px;
+		top: 39px;
 	}
 
 	.img_certificate {
-		top: 83px;
+		top: 43px;
 
 	}
 
@@ -765,7 +757,48 @@
 	.warranty {
 		padding-top: 0;
 	}
+	   .price_row {
+		   position: relative;
+		   top:100px;
+	   }
 
-   
+	   #first {
+		   position: relative;
+		   top: 90px;
+	   }
+
+	   #second {
+		   position:relative;
+		   top: 160px;
+	   }
+
+	   #third {
+		   padding-top: 0;
+		   padding-bottom: 0;
+		   position: relative;
+		   top:120px;
+	   }
+
+	   #fourth {
+		   position: relative;
+		   top: 182px;
+	   }
+
+	   #fifth {
+		   position: relative;
+		   top: 53px;
+		   top: 53px;
+		   padding-top: 0;
+	   }
+
+	   #sixth {
+		   position: relative;
+		   top: 220px;
+	   }
+
+	   footer {
+		   position: relative;
+		   top: 466px;
+	   }
 
 }

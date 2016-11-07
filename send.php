@@ -22,18 +22,19 @@ function send_mime_mail($name_from, $email_from, $name_to, $email_to, $data_char
 if(!empty($_POST)){
 	$arUsers = array(
 		array(
-			"NAME"=>"PARUSAN",
-			"EMAIL"=>"parusan@naturprodukt.ua"
+			"NAME"=>"BOOSTER",
+			"EMAIL"=>"eyelashbooster@naturprodukt.ua"
 		)
 	);
 
     $message = '';
     $message .= "<b>Ім'я:</b><br/>".$_POST['name']."<br/><br/>";
-    $message .= '<b>E-mail:</b><br/>'.$_POST['email'].'<br/><br/>';
-    $message .= '<b>Повідомлення:</b><br/>'.$_POST['message'].'<br/><br/>';
+    $message .= "<b>Прізвище:</b><br/>".$_POST['sername']."<br/><br/>";
+    $message .= '<b>Телефон:</b><br/>'.$_POST['phone'].'<br/><br/>';
+    $message .= '<b>Кількість:</b><br/>'.$_POST['kol'].'<br/><br/>';
 
 	foreach ($arUsers as $Item){
-		$r = send_mime_mail("PARUSAN", "parusan@naturprodukt.ua", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Повідомлення на сайті PARUSAN", $message);
+		$r = send_mime_mail("BOOSTER", "eyelashbooster@naturprodukt.ua", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Повідомлення на сайті BOOSTER", $message);
 	}
 }
 ?>

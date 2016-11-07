@@ -7,55 +7,46 @@ $(document).ready(function () {
             $("#name").addClass("errorForm");
             $('.send_error').show('fast');
         }
-        if ($("#email").val() == "") {
+        if ($("#phone").val() == "") {
             send = false;
-            $("#email").addClass("errorForm");
+            $("#phone").addClass("errorForm");
             $('.send_error').show('fast');
         }
-        else {
-            var r = /^\w+@\w+\.\w{2,4}$/i;
-            if (!r.test($("#email").val())) {
-                send = false;
-                $("#email").addClass("errorForm");
-                $('.send_error').show('fast');
-            }
+        if ($("#surname").val() == "") {
+            send = false;
+            $("#surname").addClass("errorForm");
+            $('.send_error').show('fast');
+        }
 
-        }
-        if ($("#message").val() == "") {
-            send = false;
-            $("#message").addClass("errorForm");
-            $('.send_error').show('fast');
-        }
-        
         if (send) {
             var name = $("#name").val();
-            var email = $("#email").val();
-            var message = $("#message").val();
-            
+            var sername = $("#surname").val();
+            var phone = $("#phone").val();
+            var kol = $("#pm").val();
+
             $.ajax({
                 method: "POST",
                 url: "send.php",
-                data: {name: name, email: email, message: message},
+                data: {name: name, sername: sername, phone: phone, kol: kol},
                 success: function (data) {
                     if (data == "") {
                         /*window.location.href = "index.html";//edit start page of site*/
-                        $('.send_error').hide('fast');
-                        $('.send_success').show('fast');
+                        $("#okay-button").html("Ваше замовлення успішно відправлено");
                     }
                 }
             });
         }
         e.preventDefault();
     });
-    
+
     $("#name").change(function () {
         $(this).removeClass("errorForm");
     });
-    
+
     $("#email").change(function () {
         $(this).removeClass("errorForm");
     });
-    
+
     $("#message").change(function () {
         $(this).removeClass("errorForm");
     });
