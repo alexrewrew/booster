@@ -561,12 +561,10 @@
 /* Large devices (large desktops, 1200px and up) */
 
 @media (min-width: 1200px) {
+
 	header {
 		overflow: hidden;
 	}
-
-	/* parallax styles */
-	/* secion1 */
 
 
 	#first .right_text_col {
@@ -589,8 +587,6 @@
 		top: 143px;
 	}
 
-	/*section2*/
-
 
 	.img_eye {
 		top: 395px;
@@ -599,9 +595,6 @@
 	.how_it {
 		padding-bottom: 0;
 	}
-
-	/*section3 */
-
 
 	.pluses_box {
 		padding-top: 76px;
@@ -659,9 +652,6 @@
 		top: 28px;
 	}
 
-	/**/
-
-
 	.gray_mobile {
 		position: relative;
 		top: 509px;
@@ -674,8 +664,6 @@
 	#fifth .gray_box {
 		top: 34px;
 	}
-
-
 
 	.left_warranty {
 		position: relative;
@@ -701,9 +689,9 @@
 		margin-bottom: 0;
 	}
 
-	/* fix nav */
 	#l2, #l3, #l4, #l5, #l6, #l7 {
 		position: relative;
+		height: 1px;
 	}
 
 	#l2 {
@@ -739,7 +727,6 @@
 		top: -560px;
 	}
 
-	/* new */
 	.right_price {
 		top: -86px;
 	}
@@ -753,7 +740,6 @@
 		position: static;
 	}
 
-    /**/
 	.warranty {
 		padding-top: 0;
 	}
@@ -798,7 +784,11 @@
 
 	   footer {
 		   position: relative;
-		   top: 466px;
+		  /* top: 466px;*/
 	   }
+		/**/
 
+.about_product {
+	background-attachment: fixed;
+}
 }
