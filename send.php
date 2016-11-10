@@ -23,7 +23,7 @@ if(!empty($_POST)){
 	$arUsers = array(
 		array(
 			"NAME"=>"BOOSTER",
-			"EMAIL"=>"eyelashbooster@naturprodukt.ua"
+			"EMAIL"=>"alexrew2012@gmail.com"
 		)
 	);
 
