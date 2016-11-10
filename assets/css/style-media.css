@@ -362,6 +362,12 @@
 	.certificate_row h4 {
 		margin-left: 0;
 	}
+    .price_text {
+	    width: 28%;
+    }
+    #modal_carousel .owl-dots {
+	    display: none;
+    }
 }
 
 /* Small devices (tablets, 768px and up) */
@@ -605,12 +611,17 @@
     .footer_back_col {
 	    min-height: 480px;
     }
+	body#start {
+		height: 100%;
+	}
 }
 
 /* Large devices (large desktops, 1200px and up) */
 
 @media (min-width: 1200px) {
-
+	body#start {
+		height: 100%;
+	}
 	header {
 		overflow: hidden;
 	}

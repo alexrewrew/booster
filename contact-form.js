@@ -1,21 +1,23 @@
 $(document).ready(function () {
     $("#contact-form").submit(function (e) {
+        $('#error_form').css('display','none');
+        $('#success_form').css('display','none');
         $(".errorForm").removeClass("errorForm");
         var send = true;
         if ($("#name").val() == "") {
             send = false;
             $("#name").addClass("errorForm");
-            $('.send_error').show('fast');
+            $('#error_form').fadeIn('fast');
         }
         if ($("#phone").val() == "") {
             send = false;
             $("#phone").addClass("errorForm");
-            $('.send_error').show('fast');
+            $('#error_form').fadeIn('fast');
         }
         if ($("#surname").val() == "") {
             send = false;
             $("#surname").addClass("errorForm");
-            $('.send_error').show('fast');
+            $('#error_form').fadeIn('fast');
         }
 
         if (send) {
@@ -31,10 +33,16 @@ $(document).ready(function () {
                 success: function (data) {
                     if (data == "") {
                         /*window.location.href = "index.html";//edit start page of site*/
-                        $("#okay-button").html("Ваше замовлення успішно відправлено");
+                        $('#client_name').text(name);
+                        $('#error_form').fadeOut('slow');
+                        $('#success_form').fadeIn('slow');
+                        $('#contact-form').trigger("reset");
+
+                        /*$("#okay-button").html("Ваше замовлення успішно відправлено");*/
                     }
                 }
             });
+
         }
         e.preventDefault();
     });

@@ -34,7 +34,7 @@ if(!empty($_POST)){
     $message .= '<b>Кількість:</b><br/>'.$_POST['kol'].'<br/><br/>';
 
 	foreach ($arUsers as $Item){
-		$r = send_mime_mail("BOOSTER", "eyelashbooster@naturprodukt.ua", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Повідомлення на сайті BOOSTER", $message);
+		$r = send_mime_mail("EYELASHBOOSTER", "eyelashbooster@naturprodukt.ua", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Заовлення на сайті EYELASHBOOSTER", $message);
 	}
 }
 ?>
