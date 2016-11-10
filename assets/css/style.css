@@ -953,7 +953,7 @@ footer {
 }
 
 .footer_back_col {
-	min-height: 387px;
+	min-height: 393px;
 
 	background: #a1a1a1;
 }
@@ -998,6 +998,7 @@ footer h3 {
 
 .footer_left .copyright {
 	color: #000;
+	margin-top: 6px;
 }
 
 footer .custom_button {
@@ -1018,8 +1019,17 @@ footer .custom_button {
 	opacity: 0.5;
 }
 
+a.to_modal2 {
+	cursor: pointer;
+	color:#727272;
+}
+
 .modal-body {
 	padding: 0;
+}
+
+#myModal2 .modal-body  {
+	padding: 60px 30px 30px 30px;
 }
 
 .modal-content {
