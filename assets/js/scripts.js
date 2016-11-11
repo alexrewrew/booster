@@ -5,15 +5,13 @@ $(document).ready(function () {
             if ($(this).scrollTop() > 530) {
                 $("#burger").attr("src", "assets/img/icons/Burger_1.svg");
                 $("#up").show('slow');
-            }
-            else {
+            } else {
                 $("#burger").attr("src", "assets/img/icons/Burger2.svg");
                 $("#up").hide('slow');
             }
             if ($(this).scrollTop() > 650) {
                 $("#burger2").attr("src", "assets/img/icons/Burger_mob2.svg");
-            }
-            else {
+            } else {
                 $("#burger2").attr("src", "assets/img/icons/Burger_mob1.svg");
             }
         });
@@ -28,7 +26,7 @@ $(document).ready(function () {
         });
 
 
-// before afetr //
+    // before afetr //
     var $black_white = $('.black_white'),
         img_width = $('.black_white img').width(),
         init_split = Math.round(img_width / 1.63);
@@ -39,7 +37,7 @@ $(document).ready(function () {
         $black_white.width(event.pageX - $black_white.offset().left);
     });
 
-// links //
+    // links //
     $("body").on("click", ".smooth", function (event) {
         event.preventDefault();
         var id = $(this).attr('href'),
@@ -48,7 +46,7 @@ $(document).ready(function () {
             scrollTop: top
         }, 1500);
     });
-// menu //
+    // menu //
     $('#call_menu').click(function () {
         $('#burger').fadeOut('fast');
         $('.menu_collapse').show('slow');
@@ -59,45 +57,17 @@ $(document).ready(function () {
         $('#burger').fadeIn('fast');
     });
 
-    $(document).mouseup(function (e) { // событие клика по веб-документу
-        var div = $(".menu_collapse"); // тут указываем ID элемента
-        if (!div.is(e.target) // если клик был не по нашему блоку
-            && div.has(e.target).length === 0) { // и не по его дочерним элементам
-            $('.menu_collapse').hide('slow'); // скрываем его
+    $(document).mouseup(function (e) {
+        var div = $(".menu_collapse");
+        if (!div.is(e.target) &&
+            div.has(e.target).length === 0) {
+            $('.menu_collapse').hide('slow');
             $('#burger').show('fast');
         }
     });
 
-// parallax //
-    /*if ($(window).width() > '1200') {
 
-     $.fn.moveIt = function() {
-     var $window = $(window);
-     var instances = [];
-     $(this).each(function() {
-     instances.push(new moveItItem($(this)));
-     });
-     window.onscroll = function() {
-     var scrollTop = $window.scrollTop();
-     instances.forEach(function(inst) {
-     inst.update(scrollTop);
-     });
-     }
-     }
-     var moveItItem = function(el) {
-     this.el = $(el);
-     this.speed = parseInt(this.el.attr('data-scroll-speed'));
-     };
-     moveItItem.prototype.update = function(scrollTop) {
-     var pos = scrollTop / this.speed;
-     this.el.css('transform', 'translateY(' + -pos + 'px)');
-     };
-     };
-     $(function() {
-     $('[data-scroll-speed]').moveIt();
-     });
-     */
-// plus minus //
+    // plus minus //
     $('.minus').click(function () {
         var $input = $('#pm');
         var count = parseInt($input.val()) - 1;
@@ -113,13 +83,40 @@ $(document).ready(function () {
         return false;
     });
 
-//calculate
+    //calculate
     $('#pm').change(function () {
         var pm = $('#pm').val();
         var price;
         price = pm * 709;
         $('#sum').text(price);
     });
+
+    // parallax //
+    if ($(window).width() > '1200') {
+
+        $.fn.moveIt = function() {
+            var $window = $(window);
+            var instances = [];
+            $(this).each(function() {
+                instances.push(new moveItItem($(this)));
+            });
+            window.onscroll = function() {
+                var scrollTop = $window.scrollTop();
+                instances.forEach(function(inst) {
+                    inst.update(scrollTop);
+                });
+            }
+        }
+        var moveItItem = function(el) {
+            this.el = $(el);
+            this.speed = parseInt(this.el.attr('data-scroll-speed'));
+        };
+        moveItItem.prototype.update = function(scrollTop) {
+            var pos = scrollTop / this.speed;
+            this.el.css('transform', 'translateY(' + -pos + 'px)');
+        };
+    };
+    $(function() {
+        $('[data-scroll-speed]').moveIt();
+    });
 });
-
-
