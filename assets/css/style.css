@@ -394,7 +394,7 @@ header>.container-fluid {
     position: absolute;
     z-index: -1;
     top: 34px;
-    left: 15px;
+    left: 0;
 }
 
 .main_ul {
@@ -974,6 +974,10 @@ a.to_modal2 {
 
 .modal-body {
     padding: 0;
+}
+
+.modal-body .owl-carousel {
+    margin-top: 0;
 }
 
 #myModal2 .modal-body {

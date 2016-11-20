@@ -8,17 +8,26 @@ $(document).ready(function () {
             send = false;
             $("#name").addClass("errorForm");
             $('#error_form').fadeIn('fast');
+            //
+            console.log('Error Name');
+            //
         }
         if ($("#phone").val() == "") {
             send = false;
             $("#phone").addClass("errorForm");
             $('#error_form').fadeIn('fast');
+            //
+            console.log('Error Phone');
+            //
         }
-        if ($("#surname").val() == "") {
+        /*if ($("#surname").val() == "") {
             send = false;
             $("#surname").addClass("errorForm");
             $('#error_form').fadeIn('fast');
-        }
+            //
+            console.log('Error Surname');
+            //
+        }*/
 
         if (send) {
             var name = $("#name").val();
@@ -32,18 +41,25 @@ $(document).ready(function () {
                 data: {name: name, sername: sername, phone: phone, kol: kol},
                 success: function (data) {
                     if (data == "") {
-                        /*window.location.href = "index.html";//edit start page of site*/
                         $('#client_name').text(name);
                         $('#error_form').fadeOut('slow');
                         $('#success_form').fadeIn('slow');
                         $('#contact-form').trigger("reset");
-
-                        /*$("#okay-button").html("Ваше замовлення успішно відправлено");*/
+                        //
+                        /*ga('send', 'event', 'zakaz', 'click');
+                        yaCounter40895659.reachGoal('FOOT');
+                        return true;*/
+                        //
                     }
                 }
             });
 
         }
+        //
+        else {
+            console.log('Error Send');
+        }
+        //
         e.preventDefault();
     });
 

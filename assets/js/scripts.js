@@ -4,10 +4,10 @@ $(document).ready(function () {
         $(window).scroll(function () {
             if ($(this).scrollTop() > 530) {
                 $("#burger").attr("src", "assets/img/icons/Burger_1.svg");
-                $("#up").show('slow');
+                $("#up").css('display','block');
             } else {
                 $("#burger").attr("src", "assets/img/icons/Burger2.svg");
-                $("#up").hide('slow');
+                $("#up").css('display','none');
             }
             if ($(this).scrollTop() > 650) {
                 $("#burger2").attr("src", "assets/img/icons/Burger_mob2.svg");
@@ -52,7 +52,6 @@ $(document).ready(function () {
         $('.menu_collapse').show('slow');
     });
     $('#hide_menu, .menu_ul>li>a').click(function () {
-
         $('.menu_collapse').hide('slow');
         $('#burger').fadeIn('fast');
     });
@@ -65,7 +64,6 @@ $(document).ready(function () {
             $('#burger').show('fast');
         }
     });
-
 
     // plus minus //
     $('.minus').click(function () {

@@ -518,6 +518,18 @@
     .parallax_object4 {
         position: relative;
         top: 889px;
-        right: -35px;
+        right: -28px;
+    }
+    /* lines */
+    .parallax_object5 {
+        position: relative;
+        top: 554px;
+        right: -53px;
+    }
+    .parallax_object6 {
+        position: relative;
+        top: 823px;
+        right: auto;
+        left: -74px;
     }
 }

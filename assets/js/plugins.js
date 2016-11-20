@@ -29,7 +29,7 @@ $(document).ready(function () {
     $('#modal_carousel').owlCarousel({
         loop: true,
         margin: 10,
-        lazyLoad : true,
+        lazyLoad: true,
         nav: true,
         items: 1, navText: ["<img src='assets/img/left_arrow.png'>", "<img src='assets/img/right_arrow.png'>"]
     });
