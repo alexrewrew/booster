@@ -454,7 +454,7 @@ header>.container-fluid {
 
 .price_row {
     padding-top: 40px;
-	padding-top: 194px;
+    padding-top: 194px;
 }
 
 .left_price {
@@ -1021,4 +1021,8 @@ a.to_modal2 {
     height: 45px;
 }
 
-
+.old_price {
+    font-size: 0.750em;
+    font-weight: 400;
+    color: #b3b3b3;
+}

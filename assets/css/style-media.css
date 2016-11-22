@@ -289,6 +289,9 @@
     #modal_carousel .owl-dots {
         display: none;
     }
+    .price_btn {
+        text-align: center;
+    }
 }
 
 
@@ -503,8 +506,9 @@
     }
     /* PARALLAX */
     .parallax_object1 {
-        position: relative; top: 122px;
-        left:2px;
+        position: relative;
+        top: 122px;
+        left: 2px;
     }
     .parallax_object2 {
         position: relative;
@@ -512,8 +516,9 @@
         right: 0;
     }
     .parallax_object3 {
-        position: relative; top: 777px;
-        left:2px;
+        position: relative;
+        top: 777px;
+        left: 2px;
     }
     .parallax_object4 {
         position: relative;
