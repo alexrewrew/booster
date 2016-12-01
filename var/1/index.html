@@ -2,20 +2,6 @@
 <html lang="ua">
 
 <head>
-<!-- Google Analytics Content Experiment code -->
-<script>function utmx_section(){}function utmx(){}(function(){var
-k='133689869-0',d=document,l=d.location,c=d.cookie;
-if(l.search.indexOf('utm_expid='+k)>0)return;
-function f(n){if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.
-indexOf(';',i);return escape(c.substring(i+n.length+1,j<0?c.
-length:j))}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;d.write(
-'<sc'+'ript src="'+'http'+(l.protocol=='https:'?'s://ssl':
-'://www')+'.google-analytics.com/ga_exp.js?'+'utmxkey='+k+
-'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='+new Date().
-valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
-'" type="text/javascript" charset="utf-8"><\/sc'+'ript>')})();
-</script><script>utmx('url','A/B');</script>
-<!-- End of Google Analytics Content Experiment code -->
     <meta charset="utf-8">
     <!--<base href="http://eyelashbooster.com.ua/">-->
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -229,7 +215,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
                 <div class="col-md-10">
                     <div class="jumbo_lead"><img src="assets/img/mphcosmetics.png" class="logo_pic">
                         <p class="hidden-xs">Зроби свій погляд виразним і розкішним навіть без макіяжу! </p>
-                        <p class="hidden-xs"><a href="#l8" class="custom_button smooth" onclick="ga('send', 'event', 'cat1', 'сlick'); yaCounter40895659.reachGoal('CLICK'); return true;">Замовити</a></p>
+                        <p class="hidden-xs"><a data-toggle="modal" data-target="#myModal3" class="custom_button to_modal3" onclick="ga('send', 'event', 'cat1', 'сlick'); yaCounter40895659.reachGoal('CLICK'); return true;">Замовити</a></p>
                     </div>
                 </div>
             </div>
@@ -239,7 +225,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
         <div class="row">
             <div class="col-xs-12 ">
                 <p>Зроби свій погляд розкішним без макіяжу! </p>
-                <p><a href="#l8" class="custom_button smooth" onclick="ga('send', 'event', 'cat1', 'сlick'); yaCounter40895659.reachGoal('CLICK'); return true;">Замовити</a></p>
+                <p><a data-toggle="modal" data-target="#myModal3" class="custom_button to_modal3" onclick="ga('send', 'event', 'cat1', 'сlick'); yaCounter40895659.reachGoal('CLICK'); return true;">Замовити</a></p>
             </div>
         </div>
     </section>
@@ -383,7 +369,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     <!-- BUTTON -->
     <section class="container about_product button_container">
         <div class="row">
-            <div class="col-md-7 button_col"> <a class="custom_button smooth" href="#l8" onclick="ga('send', 'event', 'cat2', 'click'); yaCounter40895659.reachGoal('TEST'); return true;">Спробувати зараз</a> </div>
+            <div class="col-md-7 button_col"> <a  data-toggle="modal" data-target="#myModal3" class="custom_button to_modal3" onclick="ga('send', 'event', 'cat2', 'click'); yaCounter40895659.reachGoal('TEST'); return true;">Спробувати зараз</a> </div>
             <div class="col-md-5">
                 <h4 class="price_btn">709 грн <span class="old_price">(стара ціна 750 грн)</span></h4></div>
         </div>
@@ -520,7 +506,7 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
     <!-- BUTTON -->
     <section class="container about_product padding_zero_top" style="visibility: hidden">
         <div class="row">
-            <div class="col-md-7 button_col"> <a class="custom_button smooth" href="#l8">Зробити замовлення</a> </div>
+            <div class="col-md-7 button_col"> <a data-toggle="modal" data-target="#myModal3" class="custom_button to_modal3" class="custom_button smooth">Зробити замовлення</a> </div>
             <div class="col-md-5">
                 <h4 class="price_btn">709 грн</h4></div>
         </div>
@@ -664,6 +650,39 @@ valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
             </div>
         </div>
     </div>
+
+    <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3">
+        <div class="modal-dialog order-modal" role="document">
+            <div class="modal-content" style="padding: 50px; border: none;">
+                <div class="modal-header" style="border-bottom: none;">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true" style="font-size: 42px">&times;</span></button>
+                    <h3 class="modal-title" id="myModalLabel3">Зробити замовлення</h3>
+                </div>
+                <div class="modal-body">
+                        <div class="col-md-12 footer_left">
+                            <form id="contact-form" action="send.php" method="POST" onsubmit="ga('send', 'event', 'zakaz', 'click'); yaCounter40895659.reachGoal('FOOT'); return true;">
+                                <input type="text" placeholder="Ім'я" id="name">
+                                <input type="tel" id="phone" placeholder="Телефон" minlength="10" required/>
+                                <!--<input type="tel" id="phone"
+                                    placeholder="Телефон" pattern="0931234567"  title="Формат введення 0931234567" required/>-->
+                                <input type="email" placeholder="E-mail" id="surname">
+                                <div class="number">
+                                    <input type="text" placeholder="Кількість" value="1" id="pm2" />
+                                    <div class="action"><span class="minus2" onmousedown="return false" onselectstart="return false">-</span> <span class="plus2" onmousedown="return false" onselectstart="return false">+</span></div>
+                                </div>
+                                <div class="price_text"><span id="sum2">709</span> грн</div>
+                                <p id="form_message"> <span id="success_form">Дякуємо за Ваше замовлення, <span id="client_name"></span>.
+                                    <br> Наш менеджер зв'яжеться з Вами для уточнення деталей</span> <span id="error_form">Нажаль сталася помилка.<br> Перевірте введені дані</span> </p>
+                                <button class="custom_button" id="okay-button">Замовити</button>
+                            </form>
+                        </div>
+                </div>
+                <div class="modal-footer" style="border-top: none;">
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
     <script type="text/javascript">
         {
             if (screen.width > 767) document.write('<script type="text/javascript" src="assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js" ></sc' + 'ript>');
