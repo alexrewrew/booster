@@ -785,7 +785,7 @@ p.certificate_text {
     padding: 1px 9px;
 }
 
-#pm {
+#pm, #pm2, #pm3 {
     width: 20%;
     min-width: 0;
 }
@@ -814,12 +814,12 @@ p.certificate_text {
     padding-right: 35px;
 }
 
-#error_form {
+#error_form, #error_form2 {
     display: none;
     color: red;
 }
 
-#success_form {
+#success_form, #success_form2 {
     display: none;
     color: #4fc8be;
 }
@@ -1035,3 +1035,9 @@ a.to_modal3 {
     font-weight: 400;
     color: #b3b3b3;
 }
+
+/* */
+.modal-backdrop.in {
+    opacity: .2;
+}
+

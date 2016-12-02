@@ -292,6 +292,19 @@
     .price_btn {
         text-align: center;
     }
+    /* THIRD MODAL */
+    .third_modal .price_text {
+        width: 46%;
+        float: right;
+        margin-bottom: 15px;
+    }
+    .third_modal .copyright {
+        text-align: center;
+    }
+    .third_modal .modal-content {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
 }
 
 
@@ -536,5 +549,33 @@
         top: 823px;
         right: auto;
         left: -74px;
+    }
+    /* NEW MODAL */
+
+    .third_modal.modal {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .third_modal.modal .modal-content {
+        -webkit-box-shadow: 0 3px 9px rgba(0,0,0,.3);
+        box-shadow: 0 3px 9px rgba(0,0,0,.3);
+    }
+
+    .third_modal .number {
+        width: 22%;
+        display: inline-block;
+    }
+    .third_modal #pm2 {
+        width: 89%;
+    }
+
+    .third_modal .action {
+        top:7px;
+    }
+
+    .third_modal .copyright {
+        text-align: center;
+        margin-top: 15px;
+        max-width: 89%;
     }
 }

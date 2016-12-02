@@ -67,7 +67,6 @@
     <script type="text/javascript" src="assets/js/plugins.js"></script>
     <script type="text/javascript" src="assets/js/scripts.js"></script>
     <script type="text/javascript" src="contact-form.js"></script>
-    <script type="text/javascript" src="contact-form2.js"></script>
     <script src="assets/plugins/optimize/modernizr/modernizr.min.js"></script>
     <!--[if lt IE 9]>
     <script src="assets/plugins/optimize/html5shiv/html5shiv.min.js"></script>
@@ -177,8 +176,8 @@
                             <li><a href="#l2" class="smooth" onclick="ga('send', 'event', 'kakrabotaet', 'Click'); yaCounter40895659.reachGoal('kakrabotaet'); return true;">Як це працює?</a></li>
                             <li><a href="#l3" class="smooth" onclick="ga('send', 'event', 'plus', 'Click'); yaCounter40895659.reachGoal('plus'); return true;">Плюси використання</a></li>
                             <!--<li><a href="#l4" class="smooth">Наші користувачі</a></li>-->
-                            <li><a href="#l5" class="smooth" onclick="ga('send', 'event', 'garantia', 'Click'); yaCounter40895659.reachGoal('garantia'); return true;">Гарантія якості</a></li>
-                            <li><a href="#l6" class="smooth" onclick="ga('send', 'event', 'efect', 'Click'); yaCounter40895659.reachGoal('efect'); return true;">Ефективність</a></li>
+                            <li><a href="#l5" class="smooth" onclick="ga('send', 'event', 'garantia', 'Click'); yaCounter40895659.reachGoal('garantia'); return true;">Ефективність</a></li>
+                            <li><a href="#l6" class="smooth" onclick="ga('send', 'event', 'efect', 'Click'); yaCounter40895659.reachGoal('efect'); return true;">Гарантія якості  </a></li>
                             <!--<li><a href="#l7" class="smooth">Відгуки клієнтів</a></li>-->
                             <li><a href="#l8" class="smooth" onclick="ga('send', 'event', 'kontakti', 'Click'); yaCounter40895659.reachGoal('kontakti'); return true;">Контакти</a></li>
                             <li><a href="#l8" class="order_button smooth" onclick="ga('send', 'event', 'zakazvmeniu', 'click'); yaCounter40895659.reachGoal('MENIU'); return true;">Замовити</a></li>
@@ -461,7 +460,7 @@
         <div class="container about_product warranty_cont" id="l5">
             <div class="row">
                 <div class="col-xs-12">
-                    <h2>Гарантія якості</h2></div>
+                    <h2>Ефективність<br>використання </h2></div>
             </div>
             <div class="row">
                 <div class="col-sm-5 gray_mobile">
@@ -486,7 +485,7 @@
     <section class="container about_product warranty" id="l6">
         <div class="row">
             <div class="col-lg-offset-6 col-lg-6">
-                <h2>Ефективність використання</h2></div>
+                <h2>Гарантія якості</h2></div>
         </div>
         <div class="row">
             <div class="col-md-1"></div>
@@ -584,20 +583,20 @@
                 <div class="col-md-6 footer_left">
                     <div class="horz_blue fourth_line"></div>
                     <h3>Зробити замовлення</h3>
-                    <form id="contact-form2" action="send2.php" method="POST" onsubmit="ga('send', 'event', 'zakaz', 'click'); yaCounter40895659.reachGoal('FOOT'); return true;">
-                        <input type="text" placeholder="Ім'я" id="name2">
-                        <input type="tel" id="phone2" placeholder="Телефон" minlength="10" required/>
+                    <form id="contact-form" action="send.php" method="POST" onsubmit="ga('send', 'event', 'zakaz', 'click'); yaCounter40895659.reachGoal('FOOT'); return true;">
+                        <input type="text" placeholder="Ім'я" id="name">
+                        <input type="tel" id="phone" placeholder="Телефон" minlength="10" required/>
                         <!--<input type="tel" id="phone"
                             placeholder="Телефон" pattern="0931234567"  title="Формат введення 0931234567" required/>-->
-                        <input type="email" placeholder="E-mail" id="surname2">
+                        <input type="email" placeholder="E-mail" id="surname">
                         <div class="number">
-                            <input type="text" placeholder="Кількість" value="1" id="pm3" />
+                            <input type="text" placeholder="Кількість" value="1" id="pm" />
                             <div class="action"><span class="minus" onmousedown="return false" onselectstart="return false">-</span> <span class="plus" onmousedown="return false" onselectstart="return false">+</span></div>
                         </div>
                         <div class="price_text"><span id="sum">709</span> грн</div>
-                        <p id="form_message2"> <span id="success_form2">Дякуємо за Ваше замовлення, <span id="client_name2"></span>.
-                            <br> Наш менеджер зв'яжеться з Вами для уточнення деталей</span> <span id="error_form2">Нажаль сталася помилка.<br> Перевірте введені дані</span> </p>
-                        <button class="custom_button" id="okay-button2">Замовити</button>
+                        <p id="form_message"> <span id="success_form">Дякуємо за Ваше замовлення, <span id="client_name"></span>.
+                            <br> Наш менеджер зв'яжеться з Вами для уточнення деталей</span> <span id="error_form">Нажаль сталася помилка.<br> Перевірте введені дані</span> </p>
+                        <button class="custom_button" id="okay-button">Замовити</button>
                     </form>
                     <p class="copyright"><a data-toggle="modal" data-target="#myModal2" class="to_modal2">Згода на обробку персональної інформації</a></p>
                 </div>
@@ -660,24 +659,24 @@
                     <h3 class="modal-title" id="myModalLabel3">Зробити замовлення</h3>
                 </div>
                 <div class="modal-body">
-                        <div class="col-md-12 footer_left">
-                            <form id="contact-form" action="send.php" method="POST" onsubmit="ga('send', 'event', 'zakaz', 'click'); yaCounter40895659.reachGoal('FOOT'); return true;">
-                                <input type="text" placeholder="Ім'я" id="name">
-                                <input type="tel" id="phone" placeholder="Телефон" minlength="10" required/>
-                                <!--<input type="tel" id="phone"
-                                    placeholder="Телефон" pattern="0931234567"  title="Формат введення 0931234567" required/>-->
-                                <input type="email" placeholder="E-mail" id="surname">
-                                <div class="number">
-                                    <input type="text" placeholder="Кількість" value="1" id="pm2" />
-                                    <div class="action"><span class="minus2" onmousedown="return false" onselectstart="return false">-</span> <span class="plus2" onmousedown="return false" onselectstart="return false">+</span></div>
-                                </div>
-                                <div class="price_text"><span id="sum2">709</span> грн</div>
-                                <p id="form_message"> <span id="success_form">Дякуємо за Ваше замовлення, <span id="client_name"></span>.
+                    <div class="col-md-12 footer_left">
+                        <form id="contact-form" action="send.php" method="POST" onsubmit="ga('send', 'event', 'zakaz', 'click'); yaCounter40895659.reachGoal('FOOT'); return true;">
+                            <input type="text" placeholder="Ім'я" id="name">
+                            <input type="tel" id="phone" placeholder="Телефон" minlength="10" required/>
+                            <!--<input type="tel" id="phone"
+                                placeholder="Телефон" pattern="0931234567"  title="Формат введення 0931234567" required/>-->
+                            <input type="email" placeholder="E-mail" id="surname">
+                            <div class="number">
+                                <input type="text" placeholder="Кількість" value="1" id="pm2" />
+                                <div class="action"><span class="minus2" onmousedown="return false" onselectstart="return false">-</span> <span class="plus2" onmousedown="return false" onselectstart="return false">+</span></div>
+                            </div>
+                            <div class="price_text"><span id="sum2">709</span> грн</div>
+                            <p id="form_message"> <span id="success_form">Дякуємо за Ваше замовлення, <span id="client_name"></span>.
                                     <br> Наш менеджер зв'яжеться з Вами для уточнення деталей</span> <span id="error_form">Нажаль сталася помилка.<br> Перевірте введені дані</span> </p>
-                                <button class="custom_button" id="okay-button">Замовити</button>
-                            </form>
-
-                        </div>
+                            <button class="custom_button" id="okay-button">Замовити</button>
+                        </form>
+                        <p class="copyright"><a data-toggle="modal" data-target="#myModal2" class="to_modal2">Згода на обробку персональної інформації</a></p>
+                    </div>
                 </div>
                 <div class="modal-footer" style="border-top: none;">
                 </div>

@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     // plus minus //
     $('.minus').click(function () {
-        var $input = $('#pm');
+        var $input = $('#pm3');
         var count = parseInt($input.val()) - 1;
         count = count < 1 ? 1 : count;
         $input.val(count);
@@ -75,7 +75,7 @@ $(document).ready(function () {
         return false;
     });
     $('.plus').click(function () {
-        var $input = $('#pm');
+        var $input = $('#pm3');
         $input.val(parseInt($input.val()) + 1);
         $input.change();
         return false;
@@ -111,6 +111,13 @@ $(document).ready(function () {
         var price;
         price = pm * 709;
         $('#sum2').text(price);
+    });
+
+    $('#pm3').change(function () {
+        var pm = $('#pm3').val();
+        var price;
+        price = pm * 709;
+        $('#sum').text(price);
     });
 
     // parallax //
