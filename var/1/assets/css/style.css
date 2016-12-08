@@ -132,11 +132,12 @@ input,
     text-align: center;
     color: #fff;
     border: none;
-    background: #4fc8be;
+    background: #ff8c47;
+    cursor: pointer;
 }
 
 .custom_button:hover {
-    color: #4fc8be;
+    color: #ff8c47;
     background: #f3f3f3;
 }
 
@@ -799,8 +800,27 @@ p.certificate_text {
     margin-top: 5px;
     padding-bottom: 9px;
     text-align: right;
-    color: #000;
+    color: #ff8c47;
+    font-weight:700;
     border-bottom: 1px solid #000;
+}
+
+.old_price_text {
+    display: inline-block;
+    position: absolute;
+    left:0;
+    top:0;
+    font-weight: 400;
+    color: #dfdfdf;
+}
+.nonono {
+    display: block;
+    width: 40px;
+    height:2px;
+    background: #ff8c47;
+    position: relative;
+    bottom: 15px;
+    left: 3px;
 }
 
 .errorForm {
@@ -1039,5 +1059,49 @@ a.to_modal3 {
 /* */
 .modal-backdrop.in {
     opacity: .2;
+}
+
+
+/* NEW YEAR */
+.new_year {
+    background: url('../img/new/ny_back.png') center;
+    background-size: cover;
+    min-height:530px;
+    color: #545454;
+}
+.new_year_content {
+    padding: 8% 16%;
+}
+
+.new_year_content .custom_button {
+    width: 48%;
+}
+
+.old_new_price {
+    position: relative;
+    margin-bottom:30px
+}
+
+.ny_np {
+    font-size: 2.625em;
+    font-weight: 700;
+    color: #ff8c47;
+}
+
+.ny_op {
+    font-size: 2.250em;
+    margin-right: 10px;
+    color: #c1c1c1;
+    position: relative;
+    display: inline-block;
+}
+.onp {
+    position: absolute;
+    width: 130px;
+    height: 4px;
+    background: #ff8c47;
+    top: 24px;
+    left: 0;
+    display: block;
 }
 

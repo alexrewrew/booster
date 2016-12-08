@@ -523,7 +523,7 @@
         top: 122px;
         left: 2px;
     }
-    .parallax_object2 {
+    /*.parallax_object2 {
         position: relative;
         top: 326px;
         right: 0;
@@ -538,7 +538,7 @@
         top: 889px;
         right: -28px;
     }
-    /* lines */
+    !* lines *!
     .parallax_object5 {
         position: relative;
         top: 554px;
@@ -549,6 +549,42 @@
         top: 823px;
         right: auto;
         left: -74px;
+    }*/
+    .parallax_object2 {
+        position: relative;
+        top: 366px;
+        right: 0;
+    }
+    .parallax_object3 {
+        position: relative;
+        top: 917px;
+        left: 2px;
+    }
+    .parallax_object4 {
+        position: relative;
+        top: 1029px;
+        right: -28px;
+    }
+    /* lines */
+    .parallax_object5 {
+        position: relative;
+        top: 574px;
+        right: -53px;
+    }
+    .parallax_object6 {
+        position: relative;
+        top: 843px;
+        right: auto;
+        left: -74px;
+    }
+    .parallax_object7 {
+        position: relative;
+        top: 522px;
+        left: 2px;
+    }
+
+    .parallax_object8 {
+        display: none;
     }
     /* NEW MODAL */
 
