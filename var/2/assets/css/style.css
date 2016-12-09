@@ -13,6 +13,14 @@ body {
     padding: 0;
 }
 
+h1 {
+    font-family: 'Circe', sans-serif;
+    font-size: 2.250em;
+    font-weight: 700;
+    line-height: 1.06;
+    margin-bottom: 22px;
+    color: #b3b3b3;
+}
 h2 {
     font-family: 'Circe', sans-serif;
     font-size: 2.250em;
