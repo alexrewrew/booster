@@ -85,7 +85,7 @@ $(document).ready(function () {
     $('#pm').change(function () {
         var pm = $('#pm').val();
         var price;
-        price = pm * 709;
+        price = pm * 599;
         $('#sum').text(price);
     });
 
@@ -109,14 +109,14 @@ $(document).ready(function () {
     $('#pm2').change(function () {
         var pm = $('#pm2').val();
         var price;
-        price = pm * 709;
+        price = pm * 599;
         $('#sum2').text(price);
     });
 
     $('#pm3').change(function () {
         var pm = $('#pm3').val();
         var price;
-        price = pm * 709;
+        price = pm * 599;
         $('#sum').text(price);
     });
 

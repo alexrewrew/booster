@@ -46,7 +46,7 @@ if(!empty($_POST)){
     $message .= '<b>Кількість:</b><br/>'.$_POST['kol'].'<br/><br/>';
     $message .= '<b>Сыворотка Eyelash Booster для роста и укрепления ресниц 2,7 мл Айлеш Бустер</b><br/><br/>';
     $message .= '<b>Код:</b> 242678<br/><br/>';
-    $message .= '<b>Ціна:</b> 599 грн<br/><br/>';
+    $message .= '<b>Ціна:</b> 709 грн<br/><br/>';
 
 	foreach ($arUsers as $Item){
 		$r = send_mime_mail("EYELASHBOOSTER", "delivery@farmastor.com", $Item['NAME'], $Item['EMAIL'], 'utf-8', 'utf-8', "Замовлення на сайті EYELASHBOOSTER", $message);
