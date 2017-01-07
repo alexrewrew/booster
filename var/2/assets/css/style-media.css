@@ -591,17 +591,17 @@
     }*/
     .parallax_object2 {
         position: relative;
-        top: 266px;
+        top: 366px;
         right: 0;
     }
     .parallax_object3 {
         position: relative;
-        top: 817px;
+        top: 917px;
         left: 2px;
     }
     .parallax_object4 {
         position: relative;
-        top: 929px;
+        top: 1029px;
         right: -28px;
     }
     /* lines */
@@ -618,7 +618,7 @@
     }
     .parallax_object7 {
         position: relative;
-        top: 422px;
+        top: 522px;
         left: 2px;
     }
 
