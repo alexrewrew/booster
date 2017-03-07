@@ -1,7 +1,1377 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b80577c7-52e8-43f6-9f3b-29308ef0d608" name="Default" comment="" />
+    <list default="true" id="b80577c7-52e8-43f6-9f3b-29308ef0d608" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/WB_OGI_Facebook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/WB_OGI_Twitter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/WB_home_08_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/css/style-media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/docs/sangig.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-ExtraBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-ExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-ExtraBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-ExtraLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-ExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-ExtraLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Circe/Circe-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/Proxima_Nova/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/fonts/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/01_wimpern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/02_eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/certificate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/clients/client1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/clients/client2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/clients/client3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/clients/client4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/clients/client5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/close_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/doctor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/android-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/android-icon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/android-icon-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/android-icon-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/android-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/android-icon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/ms-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/ms-icon-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/ms-icon-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/favicon/ms-icon-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/gray_box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Burger2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Burger_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Burger_mob1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Burger_mob2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Icon_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Icon_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Icon_3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Icon_4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Icon_SVG-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Icon_pharmacy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Krest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Strelka_1-01.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/Strelka_2-01.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/icons/pdf2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/left_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/marina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/menu_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/mobtab/mob_bac2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/mobtab/mob_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/mobtab/tab_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/mphcosmetics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/natalia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/right_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/sertificate/WB_Sertificate_fin_Germany.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/sertificate/WB_Sertificate_fin_Ukraine.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/sertificate/certificate_ukr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/shape_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/stage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/stage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/var2/Main_Photo_28_10_V2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/var2/Main_Photo_28_10_V2_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/var2/Main_Photo_28_10_V3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/var2/Main_Photo_28_10_V3_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/var2/Main_Photo_28_10_V4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/img/var2/Main_Photo_28_10_V4_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/dist/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/dist/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/carousel/owl-carousel/thumbs/owl.carousel2.thumbs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/framework/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/pixeden/css/helper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/libaries/jquery/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/libaries/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/libaries/jquery/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/optimize/html5shiv/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/optimize/modernizr/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/optimize/respond/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/scroll/smoothscroll-for-websites-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/scroll/smoothscroll-for-websites-master/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/scroll/smoothscroll-for-websites-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/plugins/scroll/smoothscroll-for-websites-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/assets/video/for site.mov" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/contact-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/send.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/WB_OGI_Facebook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/WB_OGI_Twitter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/WB_home_08_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/css/backup/style-media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/css/style-media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/docs/sangig.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-ExtraBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-ExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-ExtraBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-ExtraLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-ExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-ExtraLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Circe/Circe-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/Proxima_Nova/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/fonts/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/01_wimpern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/02_eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/certificate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/clients/client1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/clients/client2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/clients/client3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/clients/client4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/clients/client5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/close_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/doctor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/android-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/android-icon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/android-icon-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/android-icon-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/android-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/android-icon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/ms-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/ms-icon-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/ms-icon-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/favicon/ms-icon-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/gray_box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Burger2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Burger_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Burger_mob1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Burger_mob2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Icon_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Icon_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Icon_3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Icon_4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Icon_SVG-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Icon_pharmacy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Krest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Strelka_1-01.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/Strelka_2-01.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/icons/pdf2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/left_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/marina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/menu_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/mobtab/mob_bac2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/mobtab/mob_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/mobtab/tab_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/mphcosmetics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/natalia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/right_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/sertificate/WB_Sertificate_fin_Germany.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/sertificate/WB_Sertificate_fin_Ukraine.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/sertificate/certificate_ukr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/shape_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/stage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/stage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/var2/Main_Photo_28_10_V2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/var2/Main_Photo_28_10_V2_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/var2/Main_Photo_28_10_V3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/var2/Main_Photo_28_10_V3_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/var2/Main_Photo_28_10_V4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/img/var2/Main_Photo_28_10_V4_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/dist/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/dist/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/carousel/owl-carousel/thumbs/owl.carousel2.thumbs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/framework/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/pixeden/css/helper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/libaries/jquery/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/libaries/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/libaries/jquery/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/optimize/html5shiv/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/optimize/modernizr/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/optimize/respond/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/scroll/smoothscroll-for-websites-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/scroll/smoothscroll-for-websites-master/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/scroll/smoothscroll-for-websites-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/plugins/scroll/smoothscroll-for-websites-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/assets/video/for site.mov" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/backup/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/backup/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/contact-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/contact-form2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/send.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/send2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/backup/var/1/sitemap.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/.idea/copyright/profiles_settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/.idea/new.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/WB_OGI_Facebook.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/WB_OGI_Twitter.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/WB_home_08_11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/css/style-media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/docs/sangig.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-ExtraBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-ExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-ExtraBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-ExtraLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-ExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-ExtraLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Circe/Circe-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/Proxima_Nova/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/fonts/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/01_wimpern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/02_eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/certificate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/clients/client1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/clients/client2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/clients/client3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/clients/client4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/clients/client5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/close_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/doctor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/android-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/android-icon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/android-icon-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/android-icon-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/android-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/android-icon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/ms-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/ms-icon-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/ms-icon-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/favicon/ms-icon-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/gray_box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Burger2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Burger_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Burger_mob1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Burger_mob2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Icon_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Icon_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Icon_3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Icon_4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Icon_SVG-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Icon_pharmacy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Krest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Strelka_1-01.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/Strelka_2-01.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/icons/pdf2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/left_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/marina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/menu_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/mobtab/mob_bac2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/mobtab/mob_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/mobtab/tab_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/mphcosmetics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/natalia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/right_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/sertificate/WB_Sertificate_fin_Germany.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/sertificate/WB_Sertificate_fin_Ukraine.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/sertificate/certificate_ukr.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/shape_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/stage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/stage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/var2/Main_Photo_28_10_V2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/var2/Main_Photo_28_10_V2_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/var2/Main_Photo_28_10_V3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/img/var2/Main_Photo_28_10_V3_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/dist/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/dist/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/carousel/owl-carousel/thumbs/owl.carousel2.thumbs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/framework/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/pixeden/css/helper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/libaries/jquery/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/libaries/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/libaries/jquery/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/optimize/html5shiv/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/optimize/modernizr/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/optimize/respond/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/scroll/jquery.stellar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/scroll/smoothscroll-for-websites-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/scroll/smoothscroll-for-websites-master/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/scroll/smoothscroll-for-websites-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/plugins/scroll/smoothscroll-for-websites-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/assets/video/for site.mov" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/contact-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new/send.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/css/style-media.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-ExtraBold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-ExtraBold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-ExtraBold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-ExtraLight.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-ExtraLight.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-ExtraLight.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Circe/Circe-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNova-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaCond-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Black.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-BlackIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Bold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-BoldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Extrabld.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-ExtrabldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Light.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-LightIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-RegularIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Semibold.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-SemiboldIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaExCn-ThinIt.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/ProximaNovaT-Thin.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/Proxima_Nova/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/fonts/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/01_wimpern.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/02_eye.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/certificate.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/clients/client1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/clients/client2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/clients/client3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/clients/client4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/clients/client5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/close_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/doctor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/android-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/android-icon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/android-icon-36x36.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/android-icon-48x48.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/android-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/android-icon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-114x114.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-120x120.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-152x152.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-180x180.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-57x57.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-60x60.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-72x72.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-76x76.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/apple-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/browserconfig.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/favicon-96x96.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/ms-icon-144x144.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/ms-icon-150x150.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/ms-icon-310x310.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/favicon/ms-icon-70x70.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/gray_box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Burger2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Burger_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Icon_1.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Icon_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Icon_3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Icon_4.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Icon_SVG-10.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Icon_pharmacy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/Krest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/icons/pdf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/left_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/marina.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/menu_button.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/mobtab/mob_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/mobtab/tab_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/mphcosmetics.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/natalia.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/right_arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/shape_back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/stage1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/stage2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/var2/Main_Photo_28_10_V2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/var2/Main_Photo_28_10_V2_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/var2/Main_Photo_28_10_V3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/img/var2/Main_Photo_28_10_V3_Hower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/js/scripts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/dist/ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/dist/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/dist/owl.theme.default.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/dist/owl.theme.green.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/dist/owl.video.play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/carousel/owl-carousel/thumbs/owl.carousel2.thumbs.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap-theme.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/css/bootstrap.min.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/framework/bootstrap/js/npm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/css/elusive-icons.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/fonts/elusiveicons-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/elusive-icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/elusive-icons-2.0.0/scss/elusive-icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/css/font-awesome.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/animated.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/bordered-pulled.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/fixed-width.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/icons.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/larger.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/list.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/path.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/rotated-flipped.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/screen-reader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/stacked.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/less/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_animated.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_bordered-pulled.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_core.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_fixed-width.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_icons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_larger.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_list.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_path.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_rotated-flipped.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_screen-reader.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_stacked.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/font-awesome-4.6.3/scss/font-awesome.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/pixeden/css/helper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/pixeden/css/pe-icon-7-stroke.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/icons/pixeden/fonts/Pe-icon-7-stroke.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/libaries/jquery/jquery-3.1.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/libaries/jquery/jquery-migrate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/libaries/jquery/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/optimize/html5shiv/html5shiv.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/optimize/modernizr/modernizr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/optimize/respond/respond.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/scroll/smoothscroll-for-websites-master/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/scroll/smoothscroll-for-websites-master/README" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/scroll/smoothscroll-for-websites-master/SmoothScroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/scroll/smoothscroll-for-websites-master/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/plugins/scroll/smoothscroll-for-websites-master/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/assets/video/for site.mov" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/booster-w-p.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/contact-form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/index2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/send.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old/test.htm" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/var/2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/assets/css/style.css" afterPath="$PROJECT_DIR$/var/2/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/index.html" afterPath="$PROJECT_DIR$/var/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/var/1/assets/css/style.css" afterPath="$PROJECT_DIR$/var/2/var/1/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/var/1/index.html" afterPath="$PROJECT_DIR$/var/2/var/1/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/var/1/send.php" afterPath="$PROJECT_DIR$/var/2/var/1/send.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/2/var/1/send2.php" afterPath="$PROJECT_DIR$/var/2/var/1/send2.php" />
+    </list>
     <ignored path="booster.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -22,15 +1392,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/var/1/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="252" column="10" selection-start-line="252" selection-start-column="10" selection-end-line="252" selection-end-column="10" />
+            <state relative-caret-position="7412">
+              <caret line="436" column="3" selection-start-line="436" selection-start-column="2" selection-end-line="436" selection-end-column="3" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/2/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13379">
+              <caret line="787" column="183" selection-start-line="787" selection-start-column="183" selection-end-line="787" selection-end-column="183" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/var/2/var/1/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="767" column="45" selection-start-line="767" selection-start-column="45" selection-end-line="767" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -80,6 +1470,8 @@
         <option value="$PROJECT_DIR$/var/1/send2.php" />
         <option value="$PROJECT_DIR$/var/1/send.php" />
         <option value="$PROJECT_DIR$/var/1/index.html" />
+        <option value="$PROJECT_DIR$/var/2/index.html" />
+        <option value="$PROJECT_DIR$/var/2/var/1/index.html" />
       </list>
     </option>
   </component>
@@ -94,8 +1486,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -141,6 +1534,64 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="booster" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="var" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -153,6 +1604,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -238,17 +1690,19 @@
       <workItem from="1481117021412" duration="102000" />
       <workItem from="1481617623284" duration="1564000" />
       <workItem from="1482138130084" duration="532000" />
+      <workItem from="1488205008293" duration="811000" />
+      <workItem from="1488872439148" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82836000" />
+    <option name="totallyTimeSpent" value="83662000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17083333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17525035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -284,20 +1738,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style-media.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4152">
-          <caret line="467" column="27" selection-start-line="467" selection-start-column="27" selection-end-line="467" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
@@ -569,7 +2009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="782">
           <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -584,7 +2023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -592,7 +2030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,8 +2042,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/var/1/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="252" column="10" selection-start-line="252" selection-start-column="10" selection-end-line="252" selection-end-column="10" />
+        <state relative-caret-position="7412">
+          <caret line="436" column="3" selection-start-line="436" selection-start-column="2" selection-end-line="436" selection-end-column="3" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -626,6 +2063,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13379">
+          <caret line="787" column="183" selection-start-line="787" selection-start-column="183" selection-end-line="787" selection-end-column="183" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/2/var/1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="767" column="45" selection-start-line="767" selection-start-column="45" selection-end-line="767" selection-end-column="45" />
           <folding />
         </state>
       </provider>
